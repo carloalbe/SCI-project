@@ -9,4 +9,4 @@ Query 2:
 
 ("artificial intelligence" OR "machine learning" OR "image recognition" OR "natural language processing" OR "neural networks" OR "big data" OR "optical recognition system" OR "synthetic intelligence" OR "speech recognition" OR "machine vision" OR "dialogue system" OR "machine translation" OR "pattern recognition" OR "autonomous vehicle" OR "machine perception" )
 AND
-( “cyber defence” OR “cyberdefence” OR "election" OR "fake news" OR "malware" OR "terrorism" OR "hacking" OR "sabotage" OR "propaganda" OR "misinformation" OR "disinformation" OR "espionage" ) "machine vision" OR "dialogue system" OR "machine translation" OR "pattern recognition" OR "autonomous vehicle" OR "machine perception" 
+( “cyber defence” OR “cyberdefence” OR "election" OR "fake news" OR "malware" OR "terrorism" OR "hacking" OR "sabotage" OR "propaganda" OR "misinformation" OR "disinformation" OR "espionage" )
