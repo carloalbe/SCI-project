@@ -1,0 +1,2159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="node" attr.name="class_topic" attr.type="string"/>
+<key id="d1" for="node" attr.name="topic" attr.type="string"/>
+<key id="d0" for="node" attr.name="class" attr.type="string"/>
+<graph edgedefault="undirected"><node id="US20130254035A1">
+  <data key="d0">G06</data>
+  <data key="d1">5</data>
+  <data key="d2">G06_5</data>
+</node>
+<node id="US20070061246A1">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US6681029B1">
+  <data key="d0">other</data>
+  <data key="d1">6</data>
+  <data key="d2">other_6</data>
+</node>
+<node id="US20120010989A1">
+  <data key="d0">G06</data>
+  <data key="d1">6</data>
+  <data key="d2">G06_6</data>
+</node>
+<node id="US10038756B2">
+  <data key="d0">H04</data>
+  <data key="d1">1</data>
+  <data key="d2">H04_1</data>
+</node>
+<node id="US20070061303A1">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US8311888B2">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US9679060B2">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US20030009670A1">
+  <data key="d0">H04</data>
+  <data key="d1">4</data>
+  <data key="d2">H04_4</data>
+</node>
+<node id="US8073933B2">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="KR101326897B1">
+  <data key="d0">H04</data>
+  <data key="d1">1</data>
+  <data key="d2">H04_1</data>
+</node>
+<node id="US8078697B2">
+  <data key="d0">H04</data>
+  <data key="d1">4</data>
+  <data key="d2">H04_4</data>
+</node>
+<node id="US8195133B2">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US20080214148A1">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US9811589B2">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US8689016B2">
+  <data key="d0">G06</data>
+  <data key="d1">5</data>
+  <data key="d2">G06_5</data>
+</node>
+<node id="US8150032B2">
+  <data key="d0">other</data>
+  <data key="d1">4</data>
+  <data key="d2">other_4</data>
+</node>
+<node id="US8234218B2">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US9390436B2">
+  <data key="d0">G06</data>
+  <data key="d1">6</data>
+  <data key="d2">G06_6</data>
+</node>
+<node id="US10674195B2">
+  <data key="d0">H04</data>
+  <data key="d1">6</data>
+  <data key="d2">H04_6</data>
+</node>
+<node id="CN101517550A">
+  <data key="d0">other</data>
+  <data key="d1">6</data>
+  <data key="d2">other_6</data>
+</node>
+<node id="ES2386977T3">
+  <data key="d0">H04</data>
+  <data key="d1">6</data>
+  <data key="d2">H04_6</data>
+</node>
+<node id="US8484234B2">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US9769513B2">
+  <data key="d0">H04</data>
+  <data key="d1">5</data>
+  <data key="d2">H04_5</data>
+</node>
+<node id="JP2010508592A">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US5862260A">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US8027879B2">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="ES2454556T3">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">other_1</data>
+</node>
+<node id="US8204222B2">
+  <data key="d0">G06</data>
+  <data key="d1">2</data>
+  <data key="d2">G06_2</data>
+</node>
+<node id="US20070118533A1">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US20120010985A1">
+  <data key="d0">G06</data>
+  <data key="d1">6</data>
+  <data key="d2">G06_6</data>
+</node>
+<node id="US8832100B2">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="KR20130074886A">
+  <data key="d0">H04</data>
+  <data key="d1">3</data>
+  <data key="d2">H04_3</data>
+</node>
+<node id="US20080270220A1">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US20070060109A1">
+  <data key="d0">H04</data>
+  <data key="d1">1</data>
+  <data key="d2">H04_1</data>
+</node>
+<node id="CN101496329A">
+  <data key="d0">H04</data>
+  <data key="d1">1</data>
+  <data key="d2">H04_1</data>
+</node>
+<node id="US9195993B2">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="USRE40919E1">
+  <data key="d0">H04</data>
+  <data key="d1">1</data>
+  <data key="d2">H04_1</data>
+</node>
+<node id="US8051294B2">
+  <data key="d0">H04</data>
+  <data key="d1">2</data>
+  <data key="d2">H04_2</data>
+</node>
+<node id="US20070100652A1">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US20070100650A1">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US8825518B2">
+  <data key="d0">H04</data>
+  <data key="d1">1</data>
+  <data key="d2">H04_1</data>
+</node>
+<node id="US8156128B2">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US20120173367A1">
+  <data key="d0">G06</data>
+  <data key="d1">4</data>
+  <data key="d2">G06_4</data>
+</node>
+<node id="US10638203B2">
+  <data key="d0">H04</data>
+  <data key="d1">1</data>
+  <data key="d2">H04_1</data>
+</node>
+<node id="KR20190142761A">
+  <data key="d0">H04</data>
+  <data key="d1">3</data>
+  <data key="d2">H04_3</data>
+</node>
+<node id="US6252963B1">
+  <data key="d0">G06</data>
+  <data key="d1">3</data>
+  <data key="d2">G06_3</data>
+</node>
+<node id="US5832119A">
+  <data key="d0">G06</data>
+  <data key="d1">2</data>
+  <data key="d2">G06_2</data>
+</node>
+<node id="US9781377B2">
+  <data key="d0">H04</data>
+  <data key="d1">1</data>
+  <data key="d2">H04_1</data>
+</node>
+<node id="US20120179567A1">
+  <data key="d0">G06</data>
+  <data key="d1">4</data>
+  <data key="d2">G06_4</data>
+</node>
+<node id="US9058406B2">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US6879701B1">
+  <data key="d0">other</data>
+  <data key="d1">2</data>
+  <data key="d2">other_2</data>
+</node>
+<node id="US20080009268A1">
+  <data key="d0">H04</data>
+  <data key="d1">1</data>
+  <data key="d2">H04_1</data>
+</node>
+<node id="US8660891B2">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US9386150B2">
+  <data key="d0">H04</data>
+  <data key="d1">1</data>
+  <data key="d2">H04_1</data>
+</node>
+<node id="US7860871B2">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US20070100805A1">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="CN101351797B">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US20120010948A1">
+  <data key="d0">G06</data>
+  <data key="d1">6</data>
+  <data key="d2">G06_6</data>
+</node>
+<node id="US7116781B2">
+  <data key="d0">H04</data>
+  <data key="d1">4</data>
+  <data key="d2">H04_4</data>
+</node>
+<node id="CN100563335C">
+  <data key="d0">other</data>
+  <data key="d1">3</data>
+  <data key="d2">other_3</data>
+</node>
+<node id="US20150141137A1">
+  <data key="d0">other</data>
+  <data key="d1">4</data>
+  <data key="d2">other_4</data>
+</node>
+<node id="CN101313572B">
+  <data key="d0">H04</data>
+  <data key="d1">5</data>
+  <data key="d2">H04_5</data>
+</node>
+<node id="US20120010979A1">
+  <data key="d0">G06</data>
+  <data key="d1">6</data>
+  <data key="d2">G06_6</data>
+</node>
+<node id="US8023695B2">
+  <data key="d0">G06</data>
+  <data key="d1">2</data>
+  <data key="d2">G06_2</data>
+</node>
+<node id="US8351933B2">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US20070073718A1">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US8290810B2">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US20110143733A1">
+  <data key="d0">H04</data>
+  <data key="d1">1</data>
+  <data key="d2">H04_1</data>
+</node>
+<node id="CN102638718B">
+  <data key="d0">H04</data>
+  <data key="d1">1</data>
+  <data key="d2">H04_1</data>
+</node>
+<node id="EP1332619A2">
+  <data key="d0">H04</data>
+  <data key="d1">1</data>
+  <data key="d2">H04_1</data>
+</node>
+<node id="US5748783A">
+  <data key="d0">G06</data>
+  <data key="d1">2</data>
+  <data key="d2">G06_2</data>
+</node>
+<node id="US20090205002A1">
+  <data key="d0">H04</data>
+  <data key="d1">1</data>
+  <data key="d2">H04_1</data>
+</node>
+<node id="US20110137976A1">
+  <data key="d0">H04</data>
+  <data key="d1">1</data>
+  <data key="d2">H04_1</data>
+</node>
+<node id="US8301125B2">
+  <data key="d0">H04</data>
+  <data key="d1">1</data>
+  <data key="d2">H04_1</data>
+</node>
+<node id="US20070109266A1">
+  <data key="d0">H04</data>
+  <data key="d1">2</data>
+  <data key="d2">H04_2</data>
+</node>
+<node id="US20130046582A1">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US7103197B2">
+  <data key="d0">H04</data>
+  <data key="d1">3</data>
+  <data key="d2">H04_3</data>
+</node>
+<node id="JP2014143722A">
+  <data key="d0">H04</data>
+  <data key="d1">1</data>
+  <data key="d2">H04_1</data>
+</node>
+<node id="US8131271B2">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US8285121B2">
+  <data key="d0">H04</data>
+  <data key="d1">1</data>
+  <data key="d2">H04_1</data>
+</node>
+<node id="US20040057581A1">
+  <data key="d0">H04</data>
+  <data key="d1">3</data>
+  <data key="d2">H04_3</data>
+</node>
+<node id="CN107770572A">
+  <data key="d0">H04</data>
+  <data key="d1">3</data>
+  <data key="d2">H04_3</data>
+</node>
+<node id="US20070198485A1">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US20190222869A1">
+  <data key="d0">H04</data>
+  <data key="d1">1</data>
+  <data key="d2">H04_1</data>
+</node>
+<node id="US20100121705A1">
+  <data key="d0">G06</data>
+  <data key="d1">6</data>
+  <data key="d2">G06_6</data>
+</node>
+<node id="US8364540B2">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US20190149864A1">
+  <data key="d0">H04</data>
+  <data key="d1">1</data>
+  <data key="d2">H04_1</data>
+</node>
+<node id="US10803482B2">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US20120179563A1">
+  <data key="d0">G06</data>
+  <data key="d1">4</data>
+  <data key="d2">G06_4</data>
+</node>
+<node id="CN103189863A">
+  <data key="d0">H04</data>
+  <data key="d1">6</data>
+  <data key="d2">H04_6</data>
+</node>
+<node id="US9432516B1">
+  <data key="d0">H04</data>
+  <data key="d1">1</data>
+  <data key="d2">H04_1</data>
+</node>
+<node id="US20210021903A1">
+  <data key="d0">H04</data>
+  <data key="d1">1</data>
+  <data key="d2">H04_1</data>
+</node>
+<node id="US20120010973A1">
+  <data key="d0">G06</data>
+  <data key="d1">6</data>
+  <data key="d2">G06_6</data>
+</node>
+<node id="US9038147B2">
+  <data key="d0">H04</data>
+  <data key="d1">4</data>
+  <data key="d2">H04_4</data>
+</node>
+<node id="CN112367134A">
+  <data key="d0">other</data>
+  <data key="d1">3</data>
+  <data key="d2">other_3</data>
+</node>
+<node id="US20180129634A1">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US20070100653A1">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US20070061334A1">
+  <data key="d0">H04</data>
+  <data key="d1">1</data>
+  <data key="d2">H04_1</data>
+</node>
+<node id="US7349555B2">
+  <data key="d0">other</data>
+  <data key="d1">6</data>
+  <data key="d2">other_6</data>
+</node>
+<node id="US6650761B1">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">other_1</data>
+</node>
+<node id="CN101437039B">
+  <data key="d0">G06</data>
+  <data key="d1">3</data>
+  <data key="d2">G06_3</data>
+</node>
+<node id="US7603360B2">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US20190058921A1">
+  <data key="d0">H04</data>
+  <data key="d1">1</data>
+  <data key="d2">H04_1</data>
+</node>
+<node id="US10592930B2">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US5710834A">
+  <data key="d0">G06</data>
+  <data key="d1">2</data>
+  <data key="d2">G06_2</data>
+</node>
+<node id="US8364521B2">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US20050013462A1">
+  <data key="d0">other</data>
+  <data key="d1">4</data>
+  <data key="d2">other_4</data>
+</node>
+<node id="US20200389779A1">
+  <data key="d0">H04</data>
+  <data key="d1">3</data>
+  <data key="d2">H04_3</data>
+</node>
+<node id="US20090029687A1">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US20070100806A1">
+  <data key="d0">G06</data>
+  <data key="d1">4</data>
+  <data key="d2">G06_4</data>
+</node>
+<node id="US20170006317A1">
+  <data key="d0">H04</data>
+  <data key="d1">5</data>
+  <data key="d2">H04_5</data>
+</node>
+<node id="US20090240568A1">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US20070073717A1">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US20120209709A1">
+  <data key="d0">G06</data>
+  <data key="d1">6</data>
+  <data key="d2">G06_6</data>
+</node>
+<node id="US7486799B2">
+  <data key="d0">G06</data>
+  <data key="d1">5</data>
+  <data key="d2">G06_5</data>
+</node>
+<node id="US20070061317A1">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US20150379132A1">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US6580808B2">
+  <data key="d0">H04</data>
+  <data key="d1">4</data>
+  <data key="d2">H04_4</data>
+</node>
+<node id="US9703892B2">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US8229914B2">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US20070061211A1">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US7548915B2">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US8843396B2">
+  <data key="d0">G06</data>
+  <data key="d1">6</data>
+  <data key="d2">G06_6</data>
+</node>
+<node id="US20080215557A1">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US20100076994A1">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US8302030B2">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US20080215429A1">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US6813366B1">
+  <data key="d0">H04</data>
+  <data key="d1">6</data>
+  <data key="d2">H04_6</data>
+</node>
+<node id="US9407942B2">
+  <data key="d0">H04</data>
+  <data key="d1">1</data>
+  <data key="d2">H04_1</data>
+</node>
+<node id="US20110153428A1">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US20070239724A1">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US20070073719A1">
+  <data key="d0">H04</data>
+  <data key="d1">1</data>
+  <data key="d2">H04_1</data>
+</node>
+<node id="US9454772B2">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US20110143731A1">
+  <data key="d0">H04</data>
+  <data key="d1">1</data>
+  <data key="d2">H04_1</data>
+</node>
+<node id="US20200184043A1">
+  <data key="d0">G06</data>
+  <data key="d1">2</data>
+  <data key="d2">G06_2</data>
+</node>
+<node id="US8175585B2">
+  <data key="d0">G06</data>
+  <data key="d1">6</data>
+  <data key="d2">G06_6</data>
+</node>
+<node id="US20070061245A1">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US9294796B2">
+  <data key="d0">H04</data>
+  <data key="d1">3</data>
+  <data key="d2">H04_3</data>
+</node>
+<node id="US20190387191A1">
+  <data key="d0">H04</data>
+  <data key="d1">5</data>
+  <data key="d2">H04_5</data>
+</node>
+<node id="CN101390390B">
+  <data key="d0">H04</data>
+  <data key="d1">1</data>
+  <data key="d2">H04_1</data>
+</node>
+<node id="US8068679B2">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US7113596B2">
+  <data key="d0">G06</data>
+  <data key="d1">3</data>
+  <data key="d2">G06_3</data>
+</node>
+<node id="US8989718B2">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US20080214152A1">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US10805687B2">
+  <data key="d0">H04</data>
+  <data key="d1">1</data>
+  <data key="d2">H04_1</data>
+</node>
+<node id="US20070073722A1">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US8620285B2">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US20080214204A1">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">other_1</data>
+</node>
+<node id="US10116996B1">
+  <data key="d0">H04</data>
+  <data key="d1">1</data>
+  <data key="d2">H04_1</data>
+</node>
+<node id="US20080242279A1">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US20120179564A1">
+  <data key="d0">G06</data>
+  <data key="d1">4</data>
+  <data key="d2">G06_4</data>
+</node>
+<node id="US20070192318A1">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US20140180825A1">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US7515733B2">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US8184849B2">
+  <data key="d0">other</data>
+  <data key="d1">6</data>
+  <data key="d2">other_6</data>
+</node>
+<node id="US20080214149A1">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US20080214154A1">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US6968057B2">
+  <data key="d0">H04</data>
+  <data key="d1">3</data>
+  <data key="d2">H04_3</data>
+</node>
+<node id="US8812526B2">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US9110996B2">
+  <data key="d0">G06</data>
+  <data key="d1">6</data>
+  <data key="d2">G06_6</data>
+</node>
+<node id="US20190182517A1">
+  <data key="d0">H04</data>
+  <data key="d1">1</data>
+  <data key="d2">H04_1</data>
+</node>
+<node id="US8615719B2">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="CN101554048A">
+  <data key="d0">H04</data>
+  <data key="d1">1</data>
+  <data key="d2">H04_1</data>
+</node>
+<node id="US20150058448A1">
+  <data key="d0">H04</data>
+  <data key="d1">5</data>
+  <data key="d2">H04_5</data>
+</node>
+<node id="CN102098537A">
+  <data key="d0">H04</data>
+  <data key="d1">1</data>
+  <data key="d2">H04_1</data>
+</node>
+<node id="US20200058088A1">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US20070100651A1">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US20090234711A1">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="CN111191055A">
+  <data key="d0">G06</data>
+  <data key="d1">3</data>
+  <data key="d2">G06_3</data>
+</node>
+<node id="US9955218B2">
+  <data key="d0">H04</data>
+  <data key="d1">1</data>
+  <data key="d2">H04_1</data>
+</node>
+<node id="US5636292A">
+  <data key="d0">H04</data>
+  <data key="d1">2</data>
+  <data key="d2">H04_2</data>
+</node>
+<node id="US8411898B2">
+  <data key="d0">other</data>
+  <data key="d1">6</data>
+  <data key="d2">other_6</data>
+</node>
+<node id="US8958779B2">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US10491932B2">
+  <data key="d0">H04</data>
+  <data key="d1">1</data>
+  <data key="d2">H04_1</data>
+</node>
+<node id="CN111010619A">
+  <data key="d0">H04</data>
+  <data key="d1">3</data>
+  <data key="d2">H04_3</data>
+</node>
+<node id="US20080214155A1">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US20070060129A1">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="WO2020184122A1">
+  <data key="d0">H04</data>
+  <data key="d1">3</data>
+  <data key="d2">H04_3</data>
+</node>
+<node id="US8666376B2">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US20080214153A1">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US8819659B2">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="KR101830774B1">
+  <data key="d0">G06</data>
+  <data key="d1">3</data>
+  <data key="d2">G06_3</data>
+</node>
+<node id="JP2010531626A">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US20070061198A1">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US20080214151A1">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="CN107615766B">
+  <data key="d0">H04</data>
+  <data key="d1">1</data>
+  <data key="d2">H04_1</data>
+</node>
+<node id="US9076175B2">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US20070168354A1">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US6311214B1">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US8505108B2">
+  <data key="d0">G06</data>
+  <data key="d1">4</data>
+  <data key="d2">G06_4</data>
+</node>
+<node id="US7916354B2">
+  <data key="d0">G06</data>
+  <data key="d1">3</data>
+  <data key="d2">G06_3</data>
+</node>
+<node id="US20070061335A1">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">other_1</data>
+</node>
+<node id="US20030048922A1">
+  <data key="d0">G06</data>
+  <data key="d1">3</data>
+  <data key="d2">G06_3</data>
+</node>
+<node id="CN107924416A">
+  <data key="d0">H04</data>
+  <data key="d1">1</data>
+  <data key="d2">H04_1</data>
+</node>
+<node id="US20120173370A1">
+  <data key="d0">G06</data>
+  <data key="d1">4</data>
+  <data key="d2">G06_4</data>
+</node>
+<node id="US20070288427A1">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US20100312572A1">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US8640030B2">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">other_1</data>
+</node>
+<node id="US8055012B2">
+  <data key="d0">G06</data>
+  <data key="d1">2</data>
+  <data key="d2">G06_2</data>
+</node>
+<node id="US20070060173A1">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US8184851B2">
+  <data key="d0">G06</data>
+  <data key="d1">4</data>
+  <data key="d2">G06_4</data>
+</node>
+<node id="US20120066057A1">
+  <data key="d0">G06</data>
+  <data key="d1">6</data>
+  <data key="d2">G06_6</data>
+</node>
+<node id="US20080215623A1">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="DE102019008421A1">
+  <data key="d0">H04</data>
+  <data key="d1">2</data>
+  <data key="d2">H04_2</data>
+</node>
+<node id="US8027520B2">
+  <data key="d0">H04</data>
+  <data key="d1">1</data>
+  <data key="d2">H04_1</data>
+</node>
+<node id="US10911894B2">
+  <data key="d0">H04</data>
+  <data key="d1">1</data>
+  <data key="d2">H04_1</data>
+</node>
+<node id="CA2483419C">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">other_1</data>
+</node>
+<node id="CN111602405A">
+  <data key="d0">other</data>
+  <data key="d1">1</data>
+  <data key="d2">other_1</data>
+</node>
+<node id="US20090234861A1">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US5850481A">
+  <data key="d0">G06</data>
+  <data key="d1">2</data>
+  <data key="d2">G06_2</data>
+</node>
+<node id="US20150046537A1">
+  <data key="d0">H04</data>
+  <data key="d1">1</data>
+  <data key="d2">H04_1</data>
+</node>
+<node id="US20200404386A1">
+  <data key="d0">H04</data>
+  <data key="d1">6</data>
+  <data key="d2">H04_6</data>
+</node>
+<node id="US20210021407A1">
+  <data key="d0">H04</data>
+  <data key="d1">5</data>
+  <data key="d2">H04_5</data>
+</node>
+<node id="US10585942B2">
+  <data key="d0">H04</data>
+  <data key="d1">1</data>
+  <data key="d2">H04_1</data>
+</node>
+<node id="US20190122266A1">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="CN102273200A">
+  <data key="d0">H04</data>
+  <data key="d1">4</data>
+  <data key="d2">H04_4</data>
+</node>
+<node id="US20190110096A1">
+  <data key="d0">H04</data>
+  <data key="d1">2</data>
+  <data key="d2">H04_2</data>
+</node>
+<node id="US20110145076A1">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US9785975B2">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US20190014368A1">
+  <data key="d0">H04</data>
+  <data key="d1">1</data>
+  <data key="d2">H04_1</data>
+</node>
+<node id="US10652592B2">
+  <data key="d0">H04</data>
+  <data key="d1">1</data>
+  <data key="d2">H04_1</data>
+</node>
+<node id="US8190713B2">
+  <data key="d0">H04</data>
+  <data key="d1">4</data>
+  <data key="d2">H04_4</data>
+</node>
+<node id="US8005254B2">
+  <data key="d0">G06</data>
+  <data key="d1">4</data>
+  <data key="d2">G06_4</data>
+</node>
+<node id="EP2507729A1">
+  <data key="d0">H04</data>
+  <data key="d1">1</data>
+  <data key="d2">H04_1</data>
+</node>
+<node id="US9201979B2">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US20070061247A1">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US20090234745A1">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US20100153211A1">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US8769297B2">
+  <data key="d0">other</data>
+  <data key="d1">4</data>
+  <data key="d2">other_4</data>
+</node>
+<node id="US9471925B2">
+  <data key="d0">G06</data>
+  <data key="d1">1</data>
+  <data key="d2">G06_1</data>
+</node>
+<node id="US20120173373A1">
+  <data key="d0">G06</data>
+  <data key="d1">4</data>
+  <data key="d2">G06_4</data>
+</node>
+<node id="US20120173362A1">
+  <data key="d0">G06</data>
+  <data key="d1">4</data>
+  <data key="d2">G06_4</data>
+</node>
+<edge source="US20130254035A1" target="US20190122266A1"/>
+<edge source="US20130254035A1" target="JP2010508592A"/>
+<edge source="US20130254035A1" target="US9811589B2"/>
+<edge source="US20130254035A1" target="US9390436B2"/>
+<edge source="US20130254035A1" target="US9454772B2"/>
+<edge source="US20130254035A1" target="US9386150B2"/>
+<edge source="US20130254035A1" target="US9110996B2"/>
+<edge source="US20130254035A1" target="US9785975B2"/>
+<edge source="US20070061246A1" target="US20190122266A1"/>
+<edge source="US20070061246A1" target="JP2010508592A"/>
+<edge source="US20070061246A1" target="JP2010531626A"/>
+<edge source="US20070061246A1" target="US9811589B2"/>
+<edge source="US20070061246A1" target="US9390436B2"/>
+<edge source="US20070061246A1" target="US9454772B2"/>
+<edge source="US20070061246A1" target="US9386150B2"/>
+<edge source="US20070061246A1" target="US9110996B2"/>
+<edge source="US20070061246A1" target="US9785975B2"/>
+<edge source="US6681029B1" target="US6311214B1"/>
+<edge source="US6681029B1" target="US6650761B1"/>
+<edge source="US20120010989A1" target="US20190122266A1"/>
+<edge source="US20120010989A1" target="JP2010508592A"/>
+<edge source="US20120010989A1" target="JP2010531626A"/>
+<edge source="US20120010989A1" target="US9811589B2"/>
+<edge source="US20120010989A1" target="US9390436B2"/>
+<edge source="US20120010989A1" target="US9454772B2"/>
+<edge source="US20120010989A1" target="US9785975B2"/>
+<edge source="US10038756B2" target="US9703892B2"/>
+<edge source="US10038756B2" target="US20190122266A1"/>
+<edge source="US10038756B2" target="US9058406B2"/>
+<edge source="US10038756B2" target="JP2010508592A"/>
+<edge source="US10038756B2" target="US8958779B2"/>
+<edge source="US10038756B2" target="JP2010531626A"/>
+<edge source="US10038756B2" target="US8484234B2"/>
+<edge source="US20070061303A1" target="US20190122266A1"/>
+<edge source="US20070061303A1" target="JP2010508592A"/>
+<edge source="US20070061303A1" target="JP2010531626A"/>
+<edge source="US20070061303A1" target="US9811589B2"/>
+<edge source="US20070061303A1" target="US9390436B2"/>
+<edge source="US20070061303A1" target="US9454772B2"/>
+<edge source="US20070061303A1" target="US9386150B2"/>
+<edge source="US20070061303A1" target="US9110996B2"/>
+<edge source="US20070061303A1" target="US9785975B2"/>
+<edge source="US8311888B2" target="US20190122266A1"/>
+<edge source="US8311888B2" target="US9811589B2"/>
+<edge source="US8311888B2" target="US9390436B2"/>
+<edge source="US8311888B2" target="US9454772B2"/>
+<edge source="US8311888B2" target="US9110996B2"/>
+<edge source="US8311888B2" target="US9785975B2"/>
+<edge source="US8311888B2" target="CN101437039B"/>
+<edge source="US9679060B2" target="US20200058088A1"/>
+<edge source="US20030009670A1" target="US6311214B1"/>
+<edge source="US20030009670A1" target="US6650761B1"/>
+<edge source="US8073933B2" target="US6311214B1"/>
+<edge source="US8073933B2" target="US8769297B2"/>
+<edge source="KR101326897B1" target="US10638203B2"/>
+<edge source="US8078697B2" target="US6311214B1"/>
+<edge source="US8078697B2" target="US8769297B2"/>
+<edge source="US8195133B2" target="US20190122266A1"/>
+<edge source="US8195133B2" target="JP2010508592A"/>
+<edge source="US8195133B2" target="JP2010531626A"/>
+<edge source="US8195133B2" target="US9811589B2"/>
+<edge source="US8195133B2" target="US9390436B2"/>
+<edge source="US20080214148A1" target="US20190122266A1"/>
+<edge source="US20080214148A1" target="JP2010508592A"/>
+<edge source="US20080214148A1" target="JP2010531626A"/>
+<edge source="US20080214148A1" target="US9811589B2"/>
+<edge source="US20080214148A1" target="US9390436B2"/>
+<edge source="US20080214148A1" target="US9454772B2"/>
+<edge source="US9811589B2" target="US8175585B2"/>
+<edge source="US9811589B2" target="US9703892B2"/>
+<edge source="US9811589B2" target="US20190122266A1"/>
+<edge source="US9811589B2" target="US9058406B2"/>
+<edge source="US9811589B2" target="JP2010508592A"/>
+<edge source="US9811589B2" target="US8958779B2"/>
+<edge source="US9811589B2" target="JP2010531626A"/>
+<edge source="US9811589B2" target="US8484234B2"/>
+<edge source="US9811589B2" target="US8364540B2"/>
+<edge source="US9811589B2" target="US8351933B2"/>
+<edge source="US9811589B2" target="US8819659B2"/>
+<edge source="US9811589B2" target="US9110996B2"/>
+<edge source="US9811589B2" target="US9390436B2"/>
+<edge source="US9811589B2" target="US9785975B2"/>
+<edge source="US9811589B2" target="US8812526B2"/>
+<edge source="US9811589B2" target="US10803482B2"/>
+<edge source="US9811589B2" target="US8301125B2"/>
+<edge source="US9811589B2" target="US9195993B2"/>
+<edge source="US9811589B2" target="US9386150B2"/>
+<edge source="US9811589B2" target="US8620285B2"/>
+<edge source="US9811589B2" target="US8302030B2"/>
+<edge source="US9811589B2" target="US8156128B2"/>
+<edge source="US9811589B2" target="US8843396B2"/>
+<edge source="US9811589B2" target="US9201979B2"/>
+<edge source="US9811589B2" target="US10592930B2"/>
+<edge source="US9811589B2" target="US10911894B2"/>
+<edge source="US9811589B2" target="US8131271B2"/>
+<edge source="US9811589B2" target="US8660891B2"/>
+<edge source="US9811589B2" target="US8666376B2"/>
+<edge source="US9811589B2" target="US8027879B2"/>
+<edge source="US9811589B2" target="US8290810B2"/>
+<edge source="US9811589B2" target="US8989718B2"/>
+<edge source="US9811589B2" target="US9076175B2"/>
+<edge source="US9811589B2" target="US8364521B2"/>
+<edge source="US9811589B2" target="US7860871B2"/>
+<edge source="US9811589B2" target="US9471925B2"/>
+<edge source="US9811589B2" target="US8229914B2"/>
+<edge source="US9811589B2" target="US7603360B2"/>
+<edge source="US9811589B2" target="US8832100B2"/>
+<edge source="US9811589B2" target="US7548915B2"/>
+<edge source="US9811589B2" target="US20120209709A1"/>
+<edge source="US9811589B2" target="US20140180825A1"/>
+<edge source="US9811589B2" target="US20120173362A1"/>
+<edge source="US9811589B2" target="US20120173373A1"/>
+<edge source="US9811589B2" target="US20120010979A1"/>
+<edge source="US9811589B2" target="US20120010948A1"/>
+<edge source="US9811589B2" target="US20110153428A1"/>
+<edge source="US9811589B2" target="US20120010973A1"/>
+<edge source="US9811589B2" target="US20100153211A1"/>
+<edge source="US9811589B2" target="US20100121705A1"/>
+<edge source="US9811589B2" target="US20120010985A1"/>
+<edge source="US9811589B2" target="US20110143731A1"/>
+<edge source="US9811589B2" target="US20100076994A1"/>
+<edge source="US9811589B2" target="US20090234711A1"/>
+<edge source="US9811589B2" target="US20090234861A1"/>
+<edge source="US9811589B2" target="US20090240568A1"/>
+<edge source="US9811589B2" target="US20080242279A1"/>
+<edge source="US9811589B2" target="US20080214155A1"/>
+<edge source="US9811589B2" target="US20080214204A1"/>
+<edge source="US9811589B2" target="US20080214149A1"/>
+<edge source="US9811589B2" target="US20090234745A1"/>
+<edge source="US9811589B2" target="US20090029687A1"/>
+<edge source="US9811589B2" target="US20080215623A1"/>
+<edge source="US9811589B2" target="US20080215429A1"/>
+<edge source="US9811589B2" target="US20080214153A1"/>
+<edge source="US9811589B2" target="US20080270220A1"/>
+<edge source="US9811589B2" target="US20080214152A1"/>
+<edge source="US9811589B2" target="US20080215557A1"/>
+<edge source="US9811589B2" target="US20080214151A1"/>
+<edge source="US9811589B2" target="US20080214154A1"/>
+<edge source="US9811589B2" target="US20070168354A1"/>
+<edge source="US9811589B2" target="US20070198485A1"/>
+<edge source="US9811589B2" target="US20070073722A1"/>
+<edge source="US9811589B2" target="US20070100806A1"/>
+<edge source="US9811589B2" target="US20070073718A1"/>
+<edge source="US9811589B2" target="US20070061198A1"/>
+<edge source="US9811589B2" target="US20070073719A1"/>
+<edge source="US9811589B2" target="US20070100653A1"/>
+<edge source="US9811589B2" target="US20070061335A1"/>
+<edge source="US9811589B2" target="US20070100651A1"/>
+<edge source="US9811589B2" target="US20070100650A1"/>
+<edge source="US9811589B2" target="US20070061245A1"/>
+<edge source="US9811589B2" target="US20080009268A1"/>
+<edge source="US9811589B2" target="US20070192318A1"/>
+<edge source="US9811589B2" target="US20070239724A1"/>
+<edge source="US9811589B2" target="US20070073717A1"/>
+<edge source="US9811589B2" target="US20070061247A1"/>
+<edge source="US9811589B2" target="US20070100805A1"/>
+<edge source="US9811589B2" target="US20070060173A1"/>
+<edge source="US9811589B2" target="US20070118533A1"/>
+<edge source="US9811589B2" target="US20070061334A1"/>
+<edge source="US9811589B2" target="US20070061317A1"/>
+<edge source="US9811589B2" target="US20070060109A1"/>
+<edge source="US9811589B2" target="US20070288427A1"/>
+<edge source="US9811589B2" target="US20070100652A1"/>
+<edge source="US9811589B2" target="US20070060129A1"/>
+<edge source="US9811589B2" target="US20120179563A1"/>
+<edge source="US9811589B2" target="US20100312572A1"/>
+<edge source="US9811589B2" target="US20120066057A1"/>
+<edge source="US9811589B2" target="US20120179564A1"/>
+<edge source="US9811589B2" target="US20120179567A1"/>
+<edge source="US9811589B2" target="US20110145076A1"/>
+<edge source="US9811589B2" target="US20130046582A1"/>
+<edge source="US9811589B2" target="US20120173367A1"/>
+<edge source="US9811589B2" target="US20120173370A1"/>
+<edge source="US9811589B2" target="US20110143733A1"/>
+<edge source="US8689016B2" target="US9038147B2"/>
+<edge source="US8689016B2" target="KR101830774B1"/>
+<edge source="US8150032B2" target="US6311214B1"/>
+<edge source="US8150032B2" target="US6650761B1"/>
+<edge source="US8234218B2" target="US6650761B1"/>
+<edge source="US8234218B2" target="US20050013462A1"/>
+<edge source="US9390436B2" target="US9703892B2"/>
+<edge source="US9390436B2" target="US9058406B2"/>
+<edge source="US9390436B2" target="JP2010508592A"/>
+<edge source="US9390436B2" target="US8958779B2"/>
+<edge source="US9390436B2" target="JP2010531626A"/>
+<edge source="US9390436B2" target="US8484234B2"/>
+<edge source="US9390436B2" target="US8819659B2"/>
+<edge source="US9390436B2" target="US8812526B2"/>
+<edge source="US9390436B2" target="US10803482B2"/>
+<edge source="US9390436B2" target="US8364540B2"/>
+<edge source="US9390436B2" target="US8620285B2"/>
+<edge source="US9390436B2" target="US8302030B2"/>
+<edge source="US9390436B2" target="US8156128B2"/>
+<edge source="US9390436B2" target="US9201979B2"/>
+<edge source="US9390436B2" target="US10592930B2"/>
+<edge source="US9390436B2" target="US10911894B2"/>
+<edge source="US9390436B2" target="US8131271B2"/>
+<edge source="US9390436B2" target="US8660891B2"/>
+<edge source="US9390436B2" target="US8666376B2"/>
+<edge source="US9390436B2" target="US8027879B2"/>
+<edge source="US9390436B2" target="US8290810B2"/>
+<edge source="US9390436B2" target="US8989718B2"/>
+<edge source="US9390436B2" target="US9076175B2"/>
+<edge source="US9390436B2" target="US9471925B2"/>
+<edge source="US9390436B2" target="US8229914B2"/>
+<edge source="US9390436B2" target="US7548915B2"/>
+<edge source="US9390436B2" target="US20120209709A1"/>
+<edge source="US9390436B2" target="US20140180825A1"/>
+<edge source="US9390436B2" target="US20120173362A1"/>
+<edge source="US9390436B2" target="US20120173373A1"/>
+<edge source="US9390436B2" target="US20120010979A1"/>
+<edge source="US9390436B2" target="US20110153428A1"/>
+<edge source="US9390436B2" target="US20120010973A1"/>
+<edge source="US9390436B2" target="US20100153211A1"/>
+<edge source="US9390436B2" target="US20100121705A1"/>
+<edge source="US9390436B2" target="US20120010985A1"/>
+<edge source="US9390436B2" target="US20100076994A1"/>
+<edge source="US9390436B2" target="US20090234711A1"/>
+<edge source="US9390436B2" target="US20090234861A1"/>
+<edge source="US9390436B2" target="US20090240568A1"/>
+<edge source="US9390436B2" target="US20080242279A1"/>
+<edge source="US9390436B2" target="US20080214155A1"/>
+<edge source="US9390436B2" target="US20080214149A1"/>
+<edge source="US9390436B2" target="US20090234745A1"/>
+<edge source="US9390436B2" target="US20090029687A1"/>
+<edge source="US9390436B2" target="US20080215623A1"/>
+<edge source="US9390436B2" target="US20080215429A1"/>
+<edge source="US9390436B2" target="US20080214153A1"/>
+<edge source="US9390436B2" target="US20080270220A1"/>
+<edge source="US9390436B2" target="US20080214152A1"/>
+<edge source="US9390436B2" target="US20080215557A1"/>
+<edge source="US9390436B2" target="US20080214151A1"/>
+<edge source="US9390436B2" target="US20080214154A1"/>
+<edge source="US9390436B2" target="US20070168354A1"/>
+<edge source="US9390436B2" target="US20070198485A1"/>
+<edge source="US9390436B2" target="US20070100806A1"/>
+<edge source="US9390436B2" target="US20070073718A1"/>
+<edge source="US9390436B2" target="US20070061198A1"/>
+<edge source="US9390436B2" target="US20070073719A1"/>
+<edge source="US9390436B2" target="US20070100653A1"/>
+<edge source="US9390436B2" target="US20070100651A1"/>
+<edge source="US9390436B2" target="US20070100650A1"/>
+<edge source="US9390436B2" target="US20070061245A1"/>
+<edge source="US9390436B2" target="US20080009268A1"/>
+<edge source="US9390436B2" target="US20070192318A1"/>
+<edge source="US9390436B2" target="US20070239724A1"/>
+<edge source="US9390436B2" target="US20070073717A1"/>
+<edge source="US9390436B2" target="US20070100805A1"/>
+<edge source="US9390436B2" target="US20070118533A1"/>
+<edge source="US9390436B2" target="US20070061317A1"/>
+<edge source="US9390436B2" target="US20070288427A1"/>
+<edge source="US9390436B2" target="US20070100652A1"/>
+<edge source="US9390436B2" target="US20120179563A1"/>
+<edge source="US9390436B2" target="US20100312572A1"/>
+<edge source="US9390436B2" target="US20120066057A1"/>
+<edge source="US9390436B2" target="US20120179564A1"/>
+<edge source="US9390436B2" target="US20120179567A1"/>
+<edge source="US9390436B2" target="US20110145076A1"/>
+<edge source="US9390436B2" target="US20130046582A1"/>
+<edge source="US9390436B2" target="US20120173367A1"/>
+<edge source="US9390436B2" target="US20120173370A1"/>
+<edge source="US9390436B2" target="US20110143733A1"/>
+<edge source="US10674195B2" target="CN107615766B"/>
+<edge source="CN101517550A" target="US9781377B2"/>
+<edge source="ES2386977T3" target="US10638203B2"/>
+<edge source="ES2386977T3" target="US20190110096A1"/>
+<edge source="ES2386977T3" target="CN107770572A"/>
+<edge source="ES2386977T3" target="EP1332619A2"/>
+<edge source="US8484234B2" target="US20190122266A1"/>
+<edge source="US8484234B2" target="JP2010508592A"/>
+<edge source="US8484234B2" target="JP2010531626A"/>
+<edge source="US8484234B2" target="US9454772B2"/>
+<edge source="US8484234B2" target="US8351933B2"/>
+<edge source="US8484234B2" target="US8843396B2"/>
+<edge source="US8484234B2" target="US8615719B2"/>
+<edge source="US8484234B2" target="US8832100B2"/>
+<edge source="US8484234B2" target="US20070060173A1"/>
+<edge source="US8484234B2" target="US20070060109A1"/>
+<edge source="US8484234B2" target="CN101437039B"/>
+<edge source="US9769513B2" target="US20190387191A1"/>
+<edge source="US9769513B2" target="US20190014368A1"/>
+<edge source="JP2010508592A" target="US8175585B2"/>
+<edge source="JP2010508592A" target="US9703892B2"/>
+<edge source="JP2010508592A" target="US20190122266A1"/>
+<edge source="JP2010508592A" target="US9058406B2"/>
+<edge source="JP2010508592A" target="US8958779B2"/>
+<edge source="JP2010508592A" target="US8351933B2"/>
+<edge source="JP2010508592A" target="US8819659B2"/>
+<edge source="JP2010508592A" target="US9454772B2"/>
+<edge source="JP2010508592A" target="US9110996B2"/>
+<edge source="JP2010508592A" target="US9785975B2"/>
+<edge source="JP2010508592A" target="US8812526B2"/>
+<edge source="JP2010508592A" target="US10803482B2"/>
+<edge source="JP2010508592A" target="US8301125B2"/>
+<edge source="JP2010508592A" target="US9195993B2"/>
+<edge source="JP2010508592A" target="US9386150B2"/>
+<edge source="JP2010508592A" target="US8620285B2"/>
+<edge source="JP2010508592A" target="US8843396B2"/>
+<edge source="JP2010508592A" target="US10911894B2"/>
+<edge source="JP2010508592A" target="US8131271B2"/>
+<edge source="JP2010508592A" target="US8660891B2"/>
+<edge source="JP2010508592A" target="US8666376B2"/>
+<edge source="JP2010508592A" target="US8027879B2"/>
+<edge source="JP2010508592A" target="US8290810B2"/>
+<edge source="JP2010508592A" target="US8989718B2"/>
+<edge source="JP2010508592A" target="US8615719B2"/>
+<edge source="JP2010508592A" target="US9076175B2"/>
+<edge source="JP2010508592A" target="US8364521B2"/>
+<edge source="JP2010508592A" target="US7860871B2"/>
+<edge source="JP2010508592A" target="US9471925B2"/>
+<edge source="JP2010508592A" target="US8229914B2"/>
+<edge source="JP2010508592A" target="US7603360B2"/>
+<edge source="JP2010508592A" target="US8832100B2"/>
+<edge source="JP2010508592A" target="US7548915B2"/>
+<edge source="JP2010508592A" target="US20140180825A1"/>
+<edge source="JP2010508592A" target="US20120173362A1"/>
+<edge source="JP2010508592A" target="US20120010948A1"/>
+<edge source="JP2010508592A" target="US10585942B2"/>
+<edge source="JP2010508592A" target="US20110153428A1"/>
+<edge source="JP2010508592A" target="US20100153211A1"/>
+<edge source="JP2010508592A" target="US20100121705A1"/>
+<edge source="JP2010508592A" target="US20120010985A1"/>
+<edge source="JP2010508592A" target="US20110143731A1"/>
+<edge source="JP2010508592A" target="US20100076994A1"/>
+<edge source="JP2010508592A" target="US20090234711A1"/>
+<edge source="JP2010508592A" target="US20090234861A1"/>
+<edge source="JP2010508592A" target="US20090240568A1"/>
+<edge source="JP2010508592A" target="US20080214155A1"/>
+<edge source="JP2010508592A" target="US20080214204A1"/>
+<edge source="JP2010508592A" target="US20080214149A1"/>
+<edge source="JP2010508592A" target="US20090234745A1"/>
+<edge source="JP2010508592A" target="US20090029687A1"/>
+<edge source="JP2010508592A" target="US20080215623A1"/>
+<edge source="JP2010508592A" target="US20080215429A1"/>
+<edge source="JP2010508592A" target="US20080214153A1"/>
+<edge source="JP2010508592A" target="US20080270220A1"/>
+<edge source="JP2010508592A" target="US20080214152A1"/>
+<edge source="JP2010508592A" target="US20080215557A1"/>
+<edge source="JP2010508592A" target="US20080214151A1"/>
+<edge source="JP2010508592A" target="US20080214154A1"/>
+<edge source="JP2010508592A" target="US20070168354A1"/>
+<edge source="JP2010508592A" target="US20070198485A1"/>
+<edge source="JP2010508592A" target="US20070073722A1"/>
+<edge source="JP2010508592A" target="US20070073718A1"/>
+<edge source="JP2010508592A" target="US20070061198A1"/>
+<edge source="JP2010508592A" target="US20070073719A1"/>
+<edge source="JP2010508592A" target="US20070061335A1"/>
+<edge source="JP2010508592A" target="US20070100651A1"/>
+<edge source="JP2010508592A" target="US20070100650A1"/>
+<edge source="JP2010508592A" target="US20070061245A1"/>
+<edge source="JP2010508592A" target="US20080009268A1"/>
+<edge source="JP2010508592A" target="US20070192318A1"/>
+<edge source="JP2010508592A" target="US20070239724A1"/>
+<edge source="JP2010508592A" target="US20070073717A1"/>
+<edge source="JP2010508592A" target="US20070061247A1"/>
+<edge source="JP2010508592A" target="US20070100805A1"/>
+<edge source="JP2010508592A" target="US20070060173A1"/>
+<edge source="JP2010508592A" target="US20070118533A1"/>
+<edge source="JP2010508592A" target="US20070061334A1"/>
+<edge source="JP2010508592A" target="US20070061211A1"/>
+<edge source="JP2010508592A" target="US20070061317A1"/>
+<edge source="JP2010508592A" target="US20070060109A1"/>
+<edge source="JP2010508592A" target="US20070288427A1"/>
+<edge source="JP2010508592A" target="US20070100652A1"/>
+<edge source="JP2010508592A" target="US20070060129A1"/>
+<edge source="JP2010508592A" target="US20120179563A1"/>
+<edge source="JP2010508592A" target="US20100312572A1"/>
+<edge source="JP2010508592A" target="US20120066057A1"/>
+<edge source="JP2010508592A" target="US20110145076A1"/>
+<edge source="JP2010508592A" target="US20130046582A1"/>
+<edge source="JP2010508592A" target="US20120173367A1"/>
+<edge source="JP2010508592A" target="US20120173370A1"/>
+<edge source="JP2010508592A" target="US20110143733A1"/>
+<edge source="US5862260A" target="US6311214B1"/>
+<edge source="US5862260A" target="US6650761B1"/>
+<edge source="US8027879B2" target="US20190122266A1"/>
+<edge source="US8027879B2" target="JP2010531626A"/>
+<edge source="US8027879B2" target="US9454772B2"/>
+<edge source="US8027879B2" target="US9386150B2"/>
+<edge source="US8027879B2" target="US9110996B2"/>
+<edge source="US8027879B2" target="US9785975B2"/>
+<edge source="ES2454556T3" target="CN112367134A"/>
+<edge source="US8204222B2" target="US6311214B1"/>
+<edge source="US8204222B2" target="US8769297B2"/>
+<edge source="US20070118533A1" target="US20190122266A1"/>
+<edge source="US20070118533A1" target="JP2010531626A"/>
+<edge source="US20070118533A1" target="US9454772B2"/>
+<edge source="US20070118533A1" target="US9110996B2"/>
+<edge source="US20070118533A1" target="US9785975B2"/>
+<edge source="US20120010985A1" target="US20190122266A1"/>
+<edge source="US20120010985A1" target="JP2010531626A"/>
+<edge source="US20120010985A1" target="US9454772B2"/>
+<edge source="US8832100B2" target="US9703892B2"/>
+<edge source="US8832100B2" target="US9058406B2"/>
+<edge source="US8832100B2" target="US8958779B2"/>
+<edge source="US8832100B2" target="JP2010531626A"/>
+<edge source="US8832100B2" target="US8364540B2"/>
+<edge source="US8832100B2" target="US20120209709A1"/>
+<edge source="KR20130074886A" target="CN101351797B"/>
+<edge source="KR20130074886A" target="CN102638718B"/>
+<edge source="US20080270220A1" target="US20190122266A1"/>
+<edge source="US20080270220A1" target="JP2010531626A"/>
+<edge source="US20080270220A1" target="US9454772B2"/>
+<edge source="US20080270220A1" target="US9785975B2"/>
+<edge source="US20070060109A1" target="US9703892B2"/>
+<edge source="US20070060109A1" target="US20190122266A1"/>
+<edge source="US20070060109A1" target="US9058406B2"/>
+<edge source="US20070060109A1" target="US8958779B2"/>
+<edge source="US20070060109A1" target="JP2010531626A"/>
+<edge source="US20070060109A1" target="US8364540B2"/>
+<edge source="CN101496329A" target="US20190014368A1"/>
+<edge source="US9195993B2" target="US9703892B2"/>
+<edge source="US9195993B2" target="US9058406B2"/>
+<edge source="US9195993B2" target="US8958779B2"/>
+<edge source="US9195993B2" target="JP2010531626A"/>
+<edge source="US9195993B2" target="US8364540B2"/>
+<edge source="US9195993B2" target="US20120209709A1"/>
+<edge source="US9195993B2" target="US20120173367A1"/>
+<edge source="US9195993B2" target="US20120173370A1"/>
+<edge source="USRE40919E1" target="US6311214B1"/>
+<edge source="USRE40919E1" target="US6650761B1"/>
+<edge source="US8051294B2" target="US8769297B2"/>
+<edge source="US8051294B2" target="US20050013462A1"/>
+<edge source="US20070100652A1" target="US20190122266A1"/>
+<edge source="US20070100652A1" target="JP2010531626A"/>
+<edge source="US20070100652A1" target="US9454772B2"/>
+<edge source="US20070100652A1" target="US9785975B2"/>
+<edge source="US20070100650A1" target="US20190122266A1"/>
+<edge source="US20070100650A1" target="JP2010531626A"/>
+<edge source="US20070100650A1" target="US9454772B2"/>
+<edge source="US20070100650A1" target="US9785975B2"/>
+<edge source="US8825518B2" target="US20150046537A1"/>
+<edge source="US8156128B2" target="US20190122266A1"/>
+<edge source="US8156128B2" target="JP2010531626A"/>
+<edge source="US8156128B2" target="US9454772B2"/>
+<edge source="US8156128B2" target="US9785975B2"/>
+<edge source="US20120173367A1" target="US20190122266A1"/>
+<edge source="US20120173367A1" target="JP2010531626A"/>
+<edge source="US20120173367A1" target="US9454772B2"/>
+<edge source="US20120173367A1" target="US9386150B2"/>
+<edge source="US20120173367A1" target="US9110996B2"/>
+<edge source="US20120173367A1" target="US9785975B2"/>
+<edge source="US10638203B2" target="US20190110096A1"/>
+<edge source="US10638203B2" target="US9781377B2"/>
+<edge source="US10638203B2" target="US20110137976A1"/>
+<edge source="US10638203B2" target="EP2507729A1"/>
+<edge source="US10638203B2" target="CN107924416A"/>
+<edge source="US10638203B2" target="US9432516B1"/>
+<edge source="US10638203B2" target="US10652592B2"/>
+<edge source="US10638203B2" target="US20190182517A1"/>
+<edge source="US10638203B2" target="US20190222869A1"/>
+<edge source="US10638203B2" target="WO2020184122A1"/>
+<edge source="KR20190142761A" target="US9407942B2"/>
+<edge source="US6252963B1" target="US6311214B1"/>
+<edge source="US6252963B1" target="US8769297B2"/>
+<edge source="US5832119A" target="US6311214B1"/>
+<edge source="US5832119A" target="US8769297B2"/>
+<edge source="US9781377B2" target="US8285121B2"/>
+<edge source="US9781377B2" target="US8640030B2"/>
+<edge source="US9781377B2" target="US9407942B2"/>
+<edge source="US9781377B2" target="CN107615766B"/>
+<edge source="US9781377B2" target="CN100563335C"/>
+<edge source="US9781377B2" target="CN101554048A"/>
+<edge source="US9781377B2" target="US20200389779A1"/>
+<edge source="US20120179567A1" target="US20190122266A1"/>
+<edge source="US20120179567A1" target="JP2010531626A"/>
+<edge source="US20120179567A1" target="US9454772B2"/>
+<edge source="US20120179567A1" target="US9386150B2"/>
+<edge source="US20120179567A1" target="US9110996B2"/>
+<edge source="US20120179567A1" target="US9785975B2"/>
+<edge source="US9058406B2" target="US8175585B2"/>
+<edge source="US9058406B2" target="US20190122266A1"/>
+<edge source="US9058406B2" target="US9454772B2"/>
+<edge source="US9058406B2" target="US9386150B2"/>
+<edge source="US9058406B2" target="US9110996B2"/>
+<edge source="US9058406B2" target="JP2010531626A"/>
+<edge source="US9058406B2" target="US9785975B2"/>
+<edge source="US9058406B2" target="US8351933B2"/>
+<edge source="US9058406B2" target="US8843396B2"/>
+<edge source="US9058406B2" target="US8615719B2"/>
+<edge source="US9058406B2" target="US8364521B2"/>
+<edge source="US9058406B2" target="US7860871B2"/>
+<edge source="US9058406B2" target="US7603360B2"/>
+<edge source="US9058406B2" target="US20120010948A1"/>
+<edge source="US9058406B2" target="US10585942B2"/>
+<edge source="US9058406B2" target="US20070073722A1"/>
+<edge source="US9058406B2" target="US20070061335A1"/>
+<edge source="US9058406B2" target="US20070061247A1"/>
+<edge source="US9058406B2" target="US20070060173A1"/>
+<edge source="US9058406B2" target="US20070061334A1"/>
+<edge source="US9058406B2" target="US20070061211A1"/>
+<edge source="US9058406B2" target="US20070060129A1"/>
+<edge source="US9058406B2" target="CN101437039B"/>
+<edge source="US6879701B1" target="US6311214B1"/>
+<edge source="US6879701B1" target="US8769297B2"/>
+<edge source="US6879701B1" target="US6650761B1"/>
+<edge source="US6879701B1" target="US20070109266A1"/>
+<edge source="US20080009268A1" target="US20190122266A1"/>
+<edge source="US20080009268A1" target="JP2010531626A"/>
+<edge source="US20080009268A1" target="US9454772B2"/>
+<edge source="US20080009268A1" target="US9110996B2"/>
+<edge source="US20080009268A1" target="US9785975B2"/>
+<edge source="US8660891B2" target="US20190122266A1"/>
+<edge source="US8660891B2" target="JP2010531626A"/>
+<edge source="US8660891B2" target="US9454772B2"/>
+<edge source="US8660891B2" target="US9785975B2"/>
+<edge source="US9386150B2" target="US9703892B2"/>
+<edge source="US9386150B2" target="US8958779B2"/>
+<edge source="US9386150B2" target="JP2010531626A"/>
+<edge source="US9386150B2" target="US8364540B2"/>
+<edge source="US9386150B2" target="US8302030B2"/>
+<edge source="US9386150B2" target="US20120209709A1"/>
+<edge source="US9386150B2" target="US20120173362A1"/>
+<edge source="US9386150B2" target="US20120173373A1"/>
+<edge source="US9386150B2" target="US20090234711A1"/>
+<edge source="US9386150B2" target="US20090234861A1"/>
+<edge source="US9386150B2" target="US20090240568A1"/>
+<edge source="US9386150B2" target="US20070100806A1"/>
+<edge source="US9386150B2" target="US20070073719A1"/>
+<edge source="US9386150B2" target="US20070100653A1"/>
+<edge source="US9386150B2" target="US20070061245A1"/>
+<edge source="US9386150B2" target="US20070073717A1"/>
+<edge source="US9386150B2" target="US20070100805A1"/>
+<edge source="US9386150B2" target="US20120179563A1"/>
+<edge source="US9386150B2" target="US20120179564A1"/>
+<edge source="US9386150B2" target="US20120173370A1"/>
+<edge source="US7860871B2" target="US9703892B2"/>
+<edge source="US7860871B2" target="US8958779B2"/>
+<edge source="US7860871B2" target="JP2010531626A"/>
+<edge source="US7860871B2" target="US8364540B2"/>
+<edge source="US7860871B2" target="US20120209709A1"/>
+<edge source="US20070100805A1" target="US20190122266A1"/>
+<edge source="US20070100805A1" target="JP2010531626A"/>
+<edge source="US20070100805A1" target="US9454772B2"/>
+<edge source="US20070100805A1" target="US9110996B2"/>
+<edge source="US20070100805A1" target="US9785975B2"/>
+<edge source="CN101351797B" target="US20190014368A1"/>
+<edge source="CN101351797B" target="CN107924416A"/>
+<edge source="CN101351797B" target="US20090205002A1"/>
+<edge source="US20120010948A1" target="US9703892B2"/>
+<edge source="US20120010948A1" target="US20190122266A1"/>
+<edge source="US20120010948A1" target="US8958779B2"/>
+<edge source="US20120010948A1" target="JP2010531626A"/>
+<edge source="US7116781B2" target="US6311214B1"/>
+<edge source="US7116781B2" target="US8769297B2"/>
+<edge source="US7116781B2" target="US6650761B1"/>
+<edge source="US7116781B2" target="US20070109266A1"/>
+<edge source="CN100563335C" target="CN112367134A"/>
+<edge source="US20150141137A1" target="US20190149864A1"/>
+<edge source="CN101313572B" target="US20200389779A1"/>
+<edge source="CN101313572B" target="CN111010619A"/>
+<edge source="US20120010979A1" target="US20190122266A1"/>
+<edge source="US20120010979A1" target="JP2010531626A"/>
+<edge source="US20120010979A1" target="US9454772B2"/>
+<edge source="US8023695B2" target="US6311214B1"/>
+<edge source="US8023695B2" target="US6650761B1"/>
+<edge source="US8351933B2" target="US9703892B2"/>
+<edge source="US8351933B2" target="US20190122266A1"/>
+<edge source="US8351933B2" target="US8958779B2"/>
+<edge source="US8351933B2" target="JP2010531626A"/>
+<edge source="US20070073718A1" target="US20190122266A1"/>
+<edge source="US20070073718A1" target="JP2010531626A"/>
+<edge source="US20070073718A1" target="US9454772B2"/>
+<edge source="US20070073718A1" target="US9110996B2"/>
+<edge source="US20070073718A1" target="US9785975B2"/>
+<edge source="US8290810B2" target="US20190122266A1"/>
+<edge source="US8290810B2" target="JP2010531626A"/>
+<edge source="US8290810B2" target="US9454772B2"/>
+<edge source="US20110143733A1" target="US20190122266A1"/>
+<edge source="US20110143733A1" target="JP2010531626A"/>
+<edge source="US20110143733A1" target="US9454772B2"/>
+<edge source="US5748783A" target="US6311214B1"/>
+<edge source="US5748783A" target="US8769297B2"/>
+<edge source="US8301125B2" target="US20190122266A1"/>
+<edge source="US8301125B2" target="JP2010531626A"/>
+<edge source="US20070109266A1" target="US6813366B1"/>
+<edge source="US20070109266A1" target="US7103197B2"/>
+<edge source="US20070109266A1" target="US8184851B2"/>
+<edge source="US20070109266A1" target="US8505108B2"/>
+<edge source="US20070109266A1" target="US8184849B2"/>
+<edge source="US20070109266A1" target="US6580808B2"/>
+<edge source="US20070109266A1" target="US7113596B2"/>
+<edge source="US20070109266A1" target="US7486799B2"/>
+<edge source="US20130046582A1" target="US20190122266A1"/>
+<edge source="US20130046582A1" target="JP2010531626A"/>
+<edge source="US20130046582A1" target="US9454772B2"/>
+<edge source="US7103197B2" target="US6311214B1"/>
+<edge source="US7103197B2" target="US8769297B2"/>
+<edge source="US7103197B2" target="US20050013462A1"/>
+<edge source="US7103197B2" target="US6650761B1"/>
+<edge source="JP2014143722A" target="US20190014368A1"/>
+<edge source="US8131271B2" target="US20190122266A1"/>
+<edge source="US8131271B2" target="JP2010531626A"/>
+<edge source="US8131271B2" target="US9454772B2"/>
+<edge source="US20040057581A1" target="US6311214B1"/>
+<edge source="US20040057581A1" target="US8769297B2"/>
+<edge source="US20040057581A1" target="US6650761B1"/>
+<edge source="CN107770572A" target="US20190110096A1"/>
+<edge source="US20070198485A1" target="US20190122266A1"/>
+<edge source="US20070198485A1" target="JP2010531626A"/>
+<edge source="US20070198485A1" target="US9454772B2"/>
+<edge source="US20070198485A1" target="US9110996B2"/>
+<edge source="US20070198485A1" target="US9785975B2"/>
+<edge source="US20100121705A1" target="US20190122266A1"/>
+<edge source="US20100121705A1" target="JP2010531626A"/>
+<edge source="US20100121705A1" target="US9454772B2"/>
+<edge source="US20100121705A1" target="US9785975B2"/>
+<edge source="US8364540B2" target="US20190122266A1"/>
+<edge source="US8364540B2" target="US9110996B2"/>
+<edge source="US8364540B2" target="US9454772B2"/>
+<edge source="US8364540B2" target="US9785975B2"/>
+<edge source="US8364540B2" target="US7603360B2"/>
+<edge source="US8364540B2" target="US10585942B2"/>
+<edge source="US8364540B2" target="US20070061335A1"/>
+<edge source="US8364540B2" target="US20070061334A1"/>
+<edge source="US8364540B2" target="US20070061211A1"/>
+<edge source="US8364540B2" target="US20070060129A1"/>
+<edge source="US8364540B2" target="CN101437039B"/>
+<edge source="US20190149864A1" target="US20190014368A1"/>
+<edge source="US20190149864A1" target="US20210021407A1"/>
+<edge source="US10803482B2" target="US20190122266A1"/>
+<edge source="US10803482B2" target="JP2010531626A"/>
+<edge source="US10803482B2" target="US9454772B2"/>
+<edge source="US20120179563A1" target="US20190122266A1"/>
+<edge source="US20120179563A1" target="JP2010531626A"/>
+<edge source="US20120179563A1" target="US9454772B2"/>
+<edge source="US20120179563A1" target="US9110996B2"/>
+<edge source="US20120179563A1" target="US9785975B2"/>
+<edge source="CN103189863A" target="CN101390390B"/>
+<edge source="US20210021903A1" target="US9955218B2"/>
+<edge source="US20210021903A1" target="US20190014368A1"/>
+<edge source="US20120010973A1" target="US20190122266A1"/>
+<edge source="US20120010973A1" target="JP2010531626A"/>
+<edge source="US20120010973A1" target="US9454772B2"/>
+<edge source="US20120010973A1" target="US9785975B2"/>
+<edge source="US9038147B2" target="US9294796B2"/>
+<edge source="US9038147B2" target="US20200184043A1"/>
+<edge source="US20180129634A1" target="US9407942B2"/>
+<edge source="US20070100653A1" target="US20190122266A1"/>
+<edge source="US20070100653A1" target="JP2010531626A"/>
+<edge source="US20070100653A1" target="US9454772B2"/>
+<edge source="US20070100653A1" target="US9110996B2"/>
+<edge source="US20070100653A1" target="US9785975B2"/>
+<edge source="US20070061334A1" target="US9703892B2"/>
+<edge source="US20070061334A1" target="US20190122266A1"/>
+<edge source="US20070061334A1" target="US8958779B2"/>
+<edge source="US20070061334A1" target="JP2010531626A"/>
+<edge source="US7349555B2" target="US8769297B2"/>
+<edge source="US6650761B1" target="US8027520B2"/>
+<edge source="US6650761B1" target="US6813366B1"/>
+<edge source="US6650761B1" target="US8005254B2"/>
+<edge source="US6650761B1" target="US8184851B2"/>
+<edge source="US6650761B1" target="US8505108B2"/>
+<edge source="US6650761B1" target="US8184849B2"/>
+<edge source="US6650761B1" target="US6580808B2"/>
+<edge source="US6650761B1" target="US7113596B2"/>
+<edge source="US6650761B1" target="US7486799B2"/>
+<edge source="US6650761B1" target="US7515733B2"/>
+<edge source="US6650761B1" target="US20030048922A1"/>
+<edge source="CN101437039B" target="US8620285B2"/>
+<edge source="CN101437039B" target="US8302030B2"/>
+<edge source="CN101437039B" target="US9201979B2"/>
+<edge source="CN101437039B" target="US10592930B2"/>
+<edge source="US7603360B2" target="US9703892B2"/>
+<edge source="US7603360B2" target="US8958779B2"/>
+<edge source="US7603360B2" target="JP2010531626A"/>
+<edge source="US20190058921A1" target="US9955218B2"/>
+<edge source="US10592930B2" target="US20190122266A1"/>
+<edge source="US10592930B2" target="JP2010531626A"/>
+<edge source="US10592930B2" target="US9454772B2"/>
+<edge source="US10592930B2" target="US9110996B2"/>
+<edge source="US10592930B2" target="US9785975B2"/>
+<edge source="US5710834A" target="US6311214B1"/>
+<edge source="US5710834A" target="US8769297B2"/>
+<edge source="US8364521B2" target="US9703892B2"/>
+<edge source="US8364521B2" target="US20190122266A1"/>
+<edge source="US8364521B2" target="US8958779B2"/>
+<edge source="US8364521B2" target="JP2010531626A"/>
+<edge source="US20050013462A1" target="US6813366B1"/>
+<edge source="US20050013462A1" target="US8184851B2"/>
+<edge source="US20050013462A1" target="US6580808B2"/>
+<edge source="US20050013462A1" target="US7113596B2"/>
+<edge source="US20050013462A1" target="US7486799B2"/>
+<edge source="US20200389779A1" target="CN101390390B"/>
+<edge source="US20090029687A1" target="US20190122266A1"/>
+<edge source="US20090029687A1" target="JP2010531626A"/>
+<edge source="US20090029687A1" target="US9454772B2"/>
+<edge source="US20070100806A1" target="US20190122266A1"/>
+<edge source="US20070100806A1" target="JP2010531626A"/>
+<edge source="US20070100806A1" target="US9454772B2"/>
+<edge source="US20070100806A1" target="US9110996B2"/>
+<edge source="US20070100806A1" target="US9785975B2"/>
+<edge source="US20170006317A1" target="US20190014368A1"/>
+<edge source="US20170006317A1" target="US20200184043A1"/>
+<edge source="US20090240568A1" target="US20190122266A1"/>
+<edge source="US20090240568A1" target="US9454772B2"/>
+<edge source="US20090240568A1" target="US9110996B2"/>
+<edge source="US20090240568A1" target="US9785975B2"/>
+<edge source="US20070073717A1" target="US20190122266A1"/>
+<edge source="US20070073717A1" target="JP2010531626A"/>
+<edge source="US20070073717A1" target="US9454772B2"/>
+<edge source="US20070073717A1" target="US9110996B2"/>
+<edge source="US20070073717A1" target="US9785975B2"/>
+<edge source="US20120209709A1" target="US8175585B2"/>
+<edge source="US20120209709A1" target="US20190122266A1"/>
+<edge source="US20120209709A1" target="US9454772B2"/>
+<edge source="US20120209709A1" target="US9110996B2"/>
+<edge source="US20120209709A1" target="US9785975B2"/>
+<edge source="US20120209709A1" target="US8843396B2"/>
+<edge source="US7486799B2" target="US6311214B1"/>
+<edge source="US7486799B2" target="US8769297B2"/>
+<edge source="US20070061317A1" target="US20190122266A1"/>
+<edge source="US20070061317A1" target="JP2010531626A"/>
+<edge source="US20070061317A1" target="US9454772B2"/>
+<edge source="US20070061317A1" target="US9110996B2"/>
+<edge source="US20070061317A1" target="US9785975B2"/>
+<edge source="US20150379132A1" target="US9955218B2"/>
+<edge source="US6580808B2" target="US6311214B1"/>
+<edge source="US6580808B2" target="US8769297B2"/>
+<edge source="US9703892B2" target="US8175585B2"/>
+<edge source="US9703892B2" target="US20190122266A1"/>
+<edge source="US9703892B2" target="JP2010531626A"/>
+<edge source="US9703892B2" target="US9454772B2"/>
+<edge source="US9703892B2" target="US9110996B2"/>
+<edge source="US9703892B2" target="US9785975B2"/>
+<edge source="US9703892B2" target="US8843396B2"/>
+<edge source="US9703892B2" target="US8615719B2"/>
+<edge source="US9703892B2" target="US10585942B2"/>
+<edge source="US9703892B2" target="US20070073722A1"/>
+<edge source="US9703892B2" target="US20070061335A1"/>
+<edge source="US9703892B2" target="US20070061247A1"/>
+<edge source="US9703892B2" target="US20070060173A1"/>
+<edge source="US9703892B2" target="US20070061211A1"/>
+<edge source="US9703892B2" target="US20070060129A1"/>
+<edge source="US8229914B2" target="US20190122266A1"/>
+<edge source="US8229914B2" target="JP2010531626A"/>
+<edge source="US8229914B2" target="US9454772B2"/>
+<edge source="US8229914B2" target="US9110996B2"/>
+<edge source="US8229914B2" target="US9785975B2"/>
+<edge source="US20070061211A1" target="US8958779B2"/>
+<edge source="US20070061211A1" target="JP2010531626A"/>
+<edge source="US7548915B2" target="US20190122266A1"/>
+<edge source="US7548915B2" target="JP2010531626A"/>
+<edge source="US7548915B2" target="US9454772B2"/>
+<edge source="US7548915B2" target="US9785975B2"/>
+<edge source="US8843396B2" target="US20190122266A1"/>
+<edge source="US8843396B2" target="US8958779B2"/>
+<edge source="US8843396B2" target="JP2010531626A"/>
+<edge source="US20080215557A1" target="US20190122266A1"/>
+<edge source="US20080215557A1" target="JP2010531626A"/>
+<edge source="US20100076994A1" target="US20190122266A1"/>
+<edge source="US20100076994A1" target="JP2010531626A"/>
+<edge source="US20100076994A1" target="US9454772B2"/>
+<edge source="US20100076994A1" target="US9785975B2"/>
+<edge source="US8302030B2" target="US20190122266A1"/>
+<edge source="US8302030B2" target="US9454772B2"/>
+<edge source="US8302030B2" target="US9110996B2"/>
+<edge source="US8302030B2" target="US9785975B2"/>
+<edge source="US20080215429A1" target="US20190122266A1"/>
+<edge source="US20080215429A1" target="JP2010531626A"/>
+<edge source="US20080215429A1" target="US9454772B2"/>
+<edge source="US6813366B1" target="US6311214B1"/>
+<edge source="US6813366B1" target="US8769297B2"/>
+<edge source="US9407942B2" target="US20200404386A1"/>
+<edge source="US20110153428A1" target="US20190122266A1"/>
+<edge source="US20110153428A1" target="JP2010531626A"/>
+<edge source="US20070239724A1" target="US20190122266A1"/>
+<edge source="US20070239724A1" target="JP2010531626A"/>
+<edge source="US20070239724A1" target="US9454772B2"/>
+<edge source="US20070239724A1" target="US9110996B2"/>
+<edge source="US20070239724A1" target="US9785975B2"/>
+<edge source="US20070073719A1" target="US20190122266A1"/>
+<edge source="US20070073719A1" target="JP2010531626A"/>
+<edge source="US20070073719A1" target="US9454772B2"/>
+<edge source="US20070073719A1" target="US9110996B2"/>
+<edge source="US20070073719A1" target="US9785975B2"/>
+<edge source="US9454772B2" target="US8958779B2"/>
+<edge source="US9454772B2" target="JP2010531626A"/>
+<edge source="US9454772B2" target="US8819659B2"/>
+<edge source="US9454772B2" target="US8812526B2"/>
+<edge source="US9454772B2" target="US9201979B2"/>
+<edge source="US9454772B2" target="US10911894B2"/>
+<edge source="US9454772B2" target="US8989718B2"/>
+<edge source="US9454772B2" target="US9076175B2"/>
+<edge source="US9454772B2" target="US9471925B2"/>
+<edge source="US9454772B2" target="US20140180825A1"/>
+<edge source="US9454772B2" target="US20120173362A1"/>
+<edge source="US9454772B2" target="US20120173373A1"/>
+<edge source="US9454772B2" target="US20100153211A1"/>
+<edge source="US9454772B2" target="US20090234711A1"/>
+<edge source="US9454772B2" target="US20090234861A1"/>
+<edge source="US9454772B2" target="US20080242279A1"/>
+<edge source="US9454772B2" target="US20080214155A1"/>
+<edge source="US9454772B2" target="US20080214149A1"/>
+<edge source="US9454772B2" target="US20090234745A1"/>
+<edge source="US9454772B2" target="US20080215623A1"/>
+<edge source="US9454772B2" target="US20080214151A1"/>
+<edge source="US9454772B2" target="US20080214154A1"/>
+<edge source="US9454772B2" target="US20070168354A1"/>
+<edge source="US9454772B2" target="US20070061198A1"/>
+<edge source="US9454772B2" target="US20070100651A1"/>
+<edge source="US9454772B2" target="US20070061245A1"/>
+<edge source="US9454772B2" target="US20070192318A1"/>
+<edge source="US9454772B2" target="US20070288427A1"/>
+<edge source="US9454772B2" target="US20120066057A1"/>
+<edge source="US9454772B2" target="US20120179564A1"/>
+<edge source="US9454772B2" target="US20110145076A1"/>
+<edge source="US9454772B2" target="US20120173370A1"/>
+<edge source="US20110143731A1" target="US20190122266A1"/>
+<edge source="US20110143731A1" target="JP2010531626A"/>
+<edge source="US8175585B2" target="US20190122266A1"/>
+<edge source="US8175585B2" target="US8958779B2"/>
+<edge source="US8175585B2" target="JP2010531626A"/>
+<edge source="US20070061245A1" target="US20190122266A1"/>
+<edge source="US20070061245A1" target="JP2010531626A"/>
+<edge source="US20070061245A1" target="US9110996B2"/>
+<edge source="US20070061245A1" target="US9785975B2"/>
+<edge source="US20190387191A1" target="DE102019008421A1"/>
+<edge source="CN101390390B" target="US20190014368A1"/>
+<edge source="US8068679B2" target="US8769297B2"/>
+<edge source="US7113596B2" target="US6311214B1"/>
+<edge source="US7113596B2" target="US8769297B2"/>
+<edge source="US8989718B2" target="US20190122266A1"/>
+<edge source="US8989718B2" target="JP2010531626A"/>
+<edge source="US20080214152A1" target="US20190122266A1"/>
+<edge source="US20080214152A1" target="JP2010531626A"/>
+<edge source="US10805687B2" target="US20190110096A1"/>
+<edge source="US20070073722A1" target="US20190122266A1"/>
+<edge source="US20070073722A1" target="US8958779B2"/>
+<edge source="US20070073722A1" target="JP2010531626A"/>
+<edge source="US8620285B2" target="US20190122266A1"/>
+<edge source="US8620285B2" target="JP2010531626A"/>
+<edge source="US20080214204A1" target="US20190122266A1"/>
+<edge source="US20080214204A1" target="JP2010531626A"/>
+<edge source="US10116996B1" target="US9955218B2"/>
+<edge source="US20080242279A1" target="US20190122266A1"/>
+<edge source="US20080242279A1" target="JP2010531626A"/>
+<edge source="US20080242279A1" target="US9110996B2"/>
+<edge source="US20080242279A1" target="US9785975B2"/>
+<edge source="US20120179564A1" target="US20190122266A1"/>
+<edge source="US20120179564A1" target="JP2010531626A"/>
+<edge source="US20120179564A1" target="US9110996B2"/>
+<edge source="US20120179564A1" target="US9785975B2"/>
+<edge source="US20070192318A1" target="US20190122266A1"/>
+<edge source="US20070192318A1" target="JP2010531626A"/>
+<edge source="US20070192318A1" target="US9110996B2"/>
+<edge source="US20070192318A1" target="US9785975B2"/>
+<edge source="US20140180825A1" target="US20190122266A1"/>
+<edge source="US20140180825A1" target="JP2010531626A"/>
+<edge source="US7515733B2" target="US6311214B1"/>
+<edge source="US8184849B2" target="US6311214B1"/>
+<edge source="US8184849B2" target="US8769297B2"/>
+<edge source="US20080214149A1" target="US20190122266A1"/>
+<edge source="US20080214149A1" target="JP2010531626A"/>
+<edge source="US20080214154A1" target="US20190122266A1"/>
+<edge source="US20080214154A1" target="JP2010531626A"/>
+<edge source="US6968057B2" target="US6311214B1"/>
+<edge source="US6968057B2" target="US8769297B2"/>
+<edge source="US8812526B2" target="US20190122266A1"/>
+<edge source="US8812526B2" target="JP2010531626A"/>
+<edge source="US8812526B2" target="US9785975B2"/>
+<edge source="US9110996B2" target="US20190122266A1"/>
+<edge source="US9110996B2" target="US8958779B2"/>
+<edge source="US9110996B2" target="JP2010531626A"/>
+<edge source="US9110996B2" target="US8819659B2"/>
+<edge source="US9110996B2" target="US9201979B2"/>
+<edge source="US9110996B2" target="US9076175B2"/>
+<edge source="US9110996B2" target="US20120173362A1"/>
+<edge source="US9110996B2" target="US20120173373A1"/>
+<edge source="US9110996B2" target="US20090234711A1"/>
+<edge source="US9110996B2" target="US20090234861A1"/>
+<edge source="US9110996B2" target="US20070168354A1"/>
+<edge source="US9110996B2" target="US20070061198A1"/>
+<edge source="US9110996B2" target="US20070288427A1"/>
+<edge source="US9110996B2" target="US20120173370A1"/>
+<edge source="US8615719B2" target="US8958779B2"/>
+<edge source="US8615719B2" target="JP2010531626A"/>
+<edge source="US20150058448A1" target="US20190110096A1"/>
+<edge source="CN102098537A" target="US20190014368A1"/>
+<edge source="US20200058088A1" target="US20190110096A1"/>
+<edge source="US20070100651A1" target="US20190122266A1"/>
+<edge source="US20070100651A1" target="JP2010531626A"/>
+<edge source="US20070100651A1" target="US9785975B2"/>
+<edge source="US20090234711A1" target="US20190122266A1"/>
+<edge source="US20090234711A1" target="US9785975B2"/>
+<edge source="CN111191055A" target="US20190110096A1"/>
+<edge source="US9955218B2" target="US10491932B2"/>
+<edge source="US9955218B2" target="CN111602405A"/>
+<edge source="US5636292A" target="US6311214B1"/>
+<edge source="US5636292A" target="US8769297B2"/>
+<edge source="US8411898B2" target="US6311214B1"/>
+<edge source="US8411898B2" target="US8769297B2"/>
+<edge source="US8958779B2" target="US20190122266A1"/>
+<edge source="US8958779B2" target="JP2010531626A"/>
+<edge source="US8958779B2" target="US9785975B2"/>
+<edge source="US8958779B2" target="US10585942B2"/>
+<edge source="US8958779B2" target="US20070061335A1"/>
+<edge source="US8958779B2" target="US20070061247A1"/>
+<edge source="US8958779B2" target="US20070060173A1"/>
+<edge source="US8958779B2" target="US20070060129A1"/>
+<edge source="US20080214155A1" target="US20190122266A1"/>
+<edge source="US20080214155A1" target="JP2010531626A"/>
+<edge source="US20070060129A1" target="JP2010531626A"/>
+<edge source="US8666376B2" target="US20190122266A1"/>
+<edge source="US8666376B2" target="JP2010531626A"/>
+<edge source="US20080214153A1" target="US20190122266A1"/>
+<edge source="US20080214153A1" target="JP2010531626A"/>
+<edge source="US8819659B2" target="US20190122266A1"/>
+<edge source="US8819659B2" target="JP2010531626A"/>
+<edge source="US8819659B2" target="US9785975B2"/>
+<edge source="JP2010531626A" target="US20190122266A1"/>
+<edge source="JP2010531626A" target="US9785975B2"/>
+<edge source="JP2010531626A" target="US10911894B2"/>
+<edge source="JP2010531626A" target="US9076175B2"/>
+<edge source="JP2010531626A" target="US9471925B2"/>
+<edge source="JP2010531626A" target="US20120173362A1"/>
+<edge source="JP2010531626A" target="US20120173373A1"/>
+<edge source="JP2010531626A" target="US10585942B2"/>
+<edge source="JP2010531626A" target="US20100153211A1"/>
+<edge source="JP2010531626A" target="US20090234861A1"/>
+<edge source="JP2010531626A" target="US20090234745A1"/>
+<edge source="JP2010531626A" target="US20080215623A1"/>
+<edge source="JP2010531626A" target="US20080214151A1"/>
+<edge source="JP2010531626A" target="US20070168354A1"/>
+<edge source="JP2010531626A" target="US20070061198A1"/>
+<edge source="JP2010531626A" target="US20070061335A1"/>
+<edge source="JP2010531626A" target="US20070061247A1"/>
+<edge source="JP2010531626A" target="US20070060173A1"/>
+<edge source="JP2010531626A" target="US20070288427A1"/>
+<edge source="JP2010531626A" target="US20100312572A1"/>
+<edge source="JP2010531626A" target="US20120066057A1"/>
+<edge source="JP2010531626A" target="US20110145076A1"/>
+<edge source="JP2010531626A" target="US20120173370A1"/>
+<edge source="US20070061198A1" target="US20190122266A1"/>
+<edge source="US20070061198A1" target="US9785975B2"/>
+<edge source="US20080214151A1" target="US20190122266A1"/>
+<edge source="US9076175B2" target="US20190122266A1"/>
+<edge source="US9076175B2" target="US9785975B2"/>
+<edge source="US20070168354A1" target="US20190122266A1"/>
+<edge source="US20070168354A1" target="US9785975B2"/>
+<edge source="US6311214B1" target="US8055012B2"/>
+<edge source="US6311214B1" target="US8027520B2"/>
+<edge source="US6311214B1" target="US8005254B2"/>
+<edge source="US6311214B1" target="US7916354B2"/>
+<edge source="US6311214B1" target="US8184851B2"/>
+<edge source="US6311214B1" target="US8190713B2"/>
+<edge source="US6311214B1" target="US8505108B2"/>
+<edge source="US6311214B1" target="US5850481A"/>
+<edge source="US6311214B1" target="CA2483419C"/>
+<edge source="US6311214B1" target="US20030048922A1"/>
+<edge source="US8505108B2" target="US8769297B2"/>
+<edge source="US7916354B2" target="US8769297B2"/>
+<edge source="US20070061335A1" target="US20190122266A1"/>
+<edge source="US20120173370A1" target="US20190122266A1"/>
+<edge source="US20120173370A1" target="US9785975B2"/>
+<edge source="US20070288427A1" target="US20190122266A1"/>
+<edge source="US20070288427A1" target="US9785975B2"/>
+<edge source="US20100312572A1" target="US20190122266A1"/>
+<edge source="US8055012B2" target="US8769297B2"/>
+<edge source="US8184851B2" target="US8769297B2"/>
+<edge source="US20120066057A1" target="US20190122266A1"/>
+<edge source="US20120066057A1" target="US9785975B2"/>
+<edge source="US20080215623A1" target="US20190122266A1"/>
+<edge source="US20080215623A1" target="US9785975B2"/>
+<edge source="US10911894B2" target="US20190122266A1"/>
+<edge source="US10911894B2" target="US9785975B2"/>
+<edge source="CA2483419C" target="US8769297B2"/>
+<edge source="US20090234861A1" target="US20190122266A1"/>
+<edge source="US20090234861A1" target="US9785975B2"/>
+<edge source="US5850481A" target="US8769297B2"/>
+<edge source="US20150046537A1" target="US20190110096A1"/>
+<edge source="US10585942B2" target="US20190122266A1"/>
+<edge source="US20190122266A1" target="US9785975B2"/>
+<edge source="US20190122266A1" target="US9201979B2"/>
+<edge source="US20190122266A1" target="US9471925B2"/>
+<edge source="US20190122266A1" target="US20120173362A1"/>
+<edge source="US20190122266A1" target="US20120173373A1"/>
+<edge source="US20190122266A1" target="US20100153211A1"/>
+<edge source="US20190122266A1" target="US20090234745A1"/>
+<edge source="US20190122266A1" target="US20070061247A1"/>
+<edge source="US20190122266A1" target="US20110145076A1"/>
+<edge source="CN102273200A" target="US20190110096A1"/>
+<edge source="US20110145076A1" target="US9785975B2"/>
+<edge source="US9785975B2" target="US9201979B2"/>
+<edge source="US9785975B2" target="US9471925B2"/>
+<edge source="US9785975B2" target="US20120173362A1"/>
+<edge source="US9785975B2" target="US20120173373A1"/>
+<edge source="US9785975B2" target="US20100153211A1"/>
+<edge source="US8190713B2" target="US8769297B2"/>
+</graph></graphml>
