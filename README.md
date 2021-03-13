@@ -1,590 +1,304 @@
-﻿
+<img src="img\SCI0.jpg" width=500px />
 
-**Strategic &**
+# Strategic & 
+Competitive Intelligence
 
-**Competitive Intelligence**
+# Artificial Intelligence & Defence
 
-**Artificial Intelligence & Defence**
+# Università di Pisa 	Project work 2020-2021
 
-**Team**
+# Team
+  Alessandro Bonini	
+  Carlo Alberto Carrucciu
+  Gian Maria Pandolfi
 
-**Teachers**
+# Teachers
+  Antonella Martini	
+  Filippo Chiarello
 
-Antonella Martini
+<img src="img\SCI1.jpg" width=500px />
 
-Filippo Chiarello
+# OUR TEAM
 
-Alessandro Bonini
+<img src="img\SCI2.jpg" width=500px />
 
-Carlo Alberto Carrucciu
+<img src="img\SCI3.png" width=94px />
 
-Gian Maria Pandolfi
+<img src="img\SCI4.png" width=500px />
 
+<img src="img\SCI5.png" width=94px />
 
+# Alessandro Bonini
 
+# Gian Maria Pandolfi
 
+# Carlo Alberto Carrucciu
 
-OUR TEAM
-
-**Carlo Alberto Carrucciu**
-
-**Alessandro Bonini**
-
-**Gian Maria Pandolfi**
-
-Background:
-
+# Background:
 Management Engineering
 
-Background:
-
+# Background:
 Economics
 
-Background:
-
+# Background:
 Computer Engineering
 
+<img src="img\SCI6.jpg" width=500px />
 
+<img src="img\SCI7.png" width=94px />
 
+<img src="img\SCI8.png" width=500px />
 
+__Work Breakdown Structure__
 
-RACI
+<img src="img\SCI9.jpg" width=500px />
 
-MATRIX
+<img src="img\SCI10.png" width=500px />
 
-**WEB**
+<span style="color:#FFFFFF">Our research</span>  <span style="color:#FFFFFF">links artificial intelligence with its applications in the defence topic</span>
 
-**SCRAPING**
+<span style="color:#FFFFFF">Methodologies have been developed in order to find new key technologies and also answers the Asset\+ challenge promoted by EU\, for which we have been selected\.</span>
 
-**TOPIC**
+<span style="color:#FFFFFF">The analysis started with web crawling and scraping on Scopus to collect scientific articles\. Then using our query we scraped Google Patents to collect the patents\.</span>
 
-**MODELING**
+<span style="color:#FFFFFF">We applied text cleaning on the abstracts collected in order to prepare our dataset for the topic modelling\.</span>
 
-**NETWORK**
+<span style="color:#FFFFFF">Once we’ve collected the topics</span> we did a trend analysis <span style="color:#FFFFFF">and we applied network</span>  <span style="color:#FFFFFF">analysis</span>  <span style="color:#FFFFFF">algorithms to each of the topic in order to understand which are the documents with most relevance\. So\, we discovered new trend technologies and technologies which are reaching the maturity\.</span>
 
-**ANALYSIS**
+# Abstract
 
-**TREND**
+# ARTIFICIAL INTELLIGENCE
 
-**ANALYSIS**
+# DEFENCE
 
-Responsible
+<img src="img\SCI11.png" width=500px />
 
-Responsible
+# Context
 
-Informed
+# The European Commission has declared technology as the EU’s top priority for the next five years.
+More particularly, one key objective is the mastery and ownership of key technologies in Europe.
+With this objective in mind we decided to analyze the patent and scientific articles landscape in order to evaluate the most important technologies for Europe’s sovereignty in defence and security.
 
-Consulted
+<img src="img\SCI12.png" width=500px />
 
-Responsible
+<img src="img\SCI13.png" width=500px />
 
-Consulted
+<span style="color:#FFFFFF"> __Which technologies and technology bricks__ </span>
 
-Responsible
+<span style="color:#FFFFFF"> __are particularly relevant for Europe’s__ </span>
 
-Consulted
+<span style="color:#FFFFFF"> __sovereignty in defence and security?__ </span>
 
-Consulted
+# 01
 
-Responsible
-
-Responsible
-
-Accountable
-
-3
-
-
-
-
-
-**Work Breakdown Structure**
-
-4
-
-
-
-
-
-
-
-
-
-Our research links artificial intelligence with its applications in the defence topic
-
-Methodologies have been developed in order to find new key technologies and also answers the Asset+ challenge
-
-promoted by EU, for which we have been selected.
-
-The analysis started with web crawling and scraping on Scopus to collect scientific articles. Then using our query we
-
-scraped Google Patents to collect the patents.
-
-We applied text cleaning on the abstracts collected in order to prepare our dataset for the topic modelling.
-
-Once we’ve collected the topics we did a trend analysis and we applied network analysis algorithms to each of the
-
-topic in order to understand which are the documents with most relevance. So, we discovered new trend technologies
-
-and technologies which are reaching the maturity.
-
-Abstract
-
-
-
-
-
-ARTIFICIAL INTELLIGENCE
-
-DEFENCE
-
-
-
-
-
-Context
-
-The European Commission has declared
-
-technology as the EU’s top priority for the next
-
-five years.
-
-More particularly, one key objective is the
-
-mastery and ownership of key technologies in
-
-Europe.
-
-With this objective in mind we decided to
-
-analyze the patent and scientific articles
-
-landscape in order to evaluate the most
-
-important technologies for Europe’s
-
-sovereignty in defence and security.
-
-
-
-
-
-**Which technologies and technology bricks**
-
-**are particularly relevant for Europe’s**
-
-**sovereignty in defence and security?**
-
-
-
-
-
-**01**
-
-Text Cleaning &
-
+# Text Cleaning &
 Topic Modeling
 
-**Query Formulation**
+# Query Formulation 
+Data Retrieval
 
-**Data Retrieval**
+# 02
 
-**02**
+# 04
 
-**04**
-
-Trend Analysis &
-
+# Trend Analysis &
 Network Analysis
 
-Agenda
+# Agenda
 
-**03**
+# Top Technologies Selection
 
-Top Technologies
+# 03
 
-Selection
+<span style="color:#FFFFFF">\("artificial intelligence" OR "machine learning" OR "image recognition" OR "natural language processing" OR "neural networks" OR "big data" OR "optical recognition system" OR "synthetic intelligence" OR "speech recognition" OR "machine vision" OR "dialogue system" OR "machine translation" OR "pattern recognition" OR "autonomous vehicle" OR "machine perception"\)</span>
 
+<span style="color:#FFFFFF">AND</span>
 
+<span style="color:#FFFFFF">\( “cyber defence” OR “cyberdefence” OR "election" OR "fake news" OR "malware" OR "terrorism" OR "hacking" OR "sabotage" OR "propaganda" OR "misinformation" OR "disinformation" OR "espionage"\)</span>
 
+# We tried to focus our research on the opportunities that the artificial intelligence can bring and the dangers misinformation can leads to…
 
+<img src="img\SCI14.jpg" width=500px />
 
-("artificial intelligence" OR "machine learning" OR
+# Our Query!
 
-"image recognition" OR "natural language processing"
+# 1. Retrieve Information
 
-OR "neural networks" OR "big data" OR "optical
+<span style="color:#D9D9D9"> __STEP 3__ </span>
 
-recognition system" OR "synthetic intelligence" OR
+<span style="color:#D9D9D9"> __STEP 2__ </span>
 
-"speech recognition" OR "machine vision" OR
+<img src="img\SCI15.png" width=500px />
 
-"dialogue system" OR "machine translation" OR
+<span style="color:#D9D9D9"> __STEP 1__ </span>
 
-"pattern recognition" OR "autonomous vehicle" OR
+<span style="color:#000000">Data Cleaning and Data Preparation</span>
 
-"machine perception")
+<img src="img\SCI16.png" width=500px />
 
-We tried to focus our research on the opportunities
+<span style="color:#000000">Documents Collection and Data Structuring</span>
 
-that the artificial intelligence can bring and the
+<span style="color:#000000">Querying Scopus and Google to get scientific articles and patents</span>
 
-dangers misinformation can leads to…
+<img src="img\SCI17.png" width=330px />
 
-AND
+<img src="img\SCI18.png" width=496px />
 
-( “cyber defence” OR “cyberdefence” OR "election" OR
+<img src="img\SCI19.png" width=500px />
 
-"fake news" OR "malware" OR "terrorism" OR
+<img src="img\SCI20.png" width=500px />
 
-"hacking" OR "sabotage" OR "propaganda" OR
+<img src="img\SCI21.png" width=500px />
 
-"misinformation" OR "disinformation" OR "espionage")
+<img src="img\SCI22.png" width=500px />
 
-Our Query!
+<img src="img\SCI23.png" width=500px />
 
+__DATASET STRUCTURE__
 
+US10681025B2\, \.\.\.
 
+TheSystem and \.\.\.
 
+# Cleaning your data is important
 
-\1. Retrieve Information
+# Abstract
 
-**STEP 3**
+# Citations
 
-**STEP 2**
+# A small part of the patents was without abstract, and have been deleted. Abstracts are fundamental for our analysis
 
-**STEP 1**
+# Only the records that had at least one internal citation have been condìsdiered
 
-Data Cleaning and
+# 22,573
 
-Data Preparation
+# Patents retrieved from Google Patents
 
-Documents
+# 7,981
 
-Collection and Data
+# Scientific Papers retrieved from Scopus
 
-Structuring
+# 17,457
 
-Querying Scopus
+# Number of Documents after Data Cleaning
 
-and Google to get
+__Documents Analysis__
 
-scientific articles
+<img src="img\SCI24.png" width=500px />
 
-and patents
+<img src="img\SCI25.png" width=500px />
 
-12
+<span style="color:#333333">G06 \- COMPUTING; CALCULATING; COUNTING</span>
 
+<span style="color:#333333">H04 \- ELECTRIC COMMUNICATION TECHNIQUE</span>
 
+# 2. Topic modeling
 
+<span style="color:#D9D9D9"> __STEP 3__ </span>
 
+<span style="color:#D9D9D9"> __STEP 2__ </span>
 
+<span style="color:#D9D9D9"> __STEP 1__ </span>
 
+<span style="color:#000000">Topic Analysis</span>
 
+<span style="color:#000000">and Understanding</span>
 
+<span style="color:#000000">Topic Modelling</span>
 
-**DATASET STRUCTURE**
+<span style="color:#000000">Abstract Collection</span>
 
-code
+<span style="color:#000000">and Preprocessing</span>
 
-title
+<img src="img\SCI26.png" width=500px />
 
-pub\_date citations abstract
+<img src="img\SCI27.png" width=500px />
 
-class
+<img src="img\SCI28.png" width=500px />
 
-US8370262B2
+<img src="img\SCI29.png" width=500px />
 
-System and ...
+<img src="img\SCI30.png" width=500px />
 
-2013-02-05
+# Basic passages for  text cleaning?
 
-US10681025B2, ...
+# 01
 
-The System and ...
+Cleaning text to obtain optimal result during the next phase
 
-G06
+__R__  __emove punctuation and case normalization__
 
-. . . .
+# 02
 
-. . . .
+# 03
 
-. . . .
+__Tokenization__
 
-. . . .
+__and stopword removing__
 
-. .
+<span style="color:#FFFFFF"> __Lemmatization and__ </span>
 
-. .
+<span style="color:#FFFFFF"> __bigram costrupting__ </span>
 
-. .
-
-. .
-
-
-
-
-
-**!**
-
-Cleaning your data
-
-is important
-
-**Abstract**
-
-**Citations**
-
-A small part of the patents was without abstract,
-
-and have been deleted. Abstracts are
-
-fundamental for our analysis
-
-Only the records that had at least one internal
-
-citation have been condìsdiered
-
-15
-
-
-
-
-
-**22,573**
-
-Patents retrieved from Google Patents
-
-7,981
-
-Scientific Papers retrieved from Scopus
-
-17,457
-
-Number of Documents after Data Cleaning
-
-
-
-
-
-**Documents Analysis**
-
-G06-COMPUTING;CALCULATING;COUNTING
-
-17
-
-H04-ELECTRICCOMMUNICATIONTECHNIQUE
-
-
-
-
-
-\2. Topic modeling
-
-**STEP 3**
-
-**STEP 2**
-
-**STEP 1**
-
-Topic Analysis
-
-and Understanding
-
-Topic Modelling
-
-Abstract Collection
-
-and Preprocessing
-
-
-
-
-
-pyLDAvis
-
-
-
-
-
-Basic passages for text
-
-cleaning?
-
-01
-
-Cleaning text to
-
-obtain optimal result
-
-during the next phase
-
-**Remove punctuation**
-
-**and case normalization**
-
-02
-
-**Tokenization**
-
-**and stopword**
-
-**removing**
-
-03
-
-**Lemmatization and**
-
-**bigram costrupting**
-
-
-
-
-
-Optimal
-
+# Optimal 
 No. topics
 
-Analysing **perplexity** and
+<img src="img\SCI31.png" width=424px />
 
-**coherence** for different
+# Analysing perplexity and coherence for different numbers of topics, we discovered that optimal results are reached using 4 or 7 topics
 
-numbers of topics, we
+# Topics structure
 
-discovered that optimal
+<img src="img\SCI32.png" width=376px />
 
-results are reached using 4
+<img src="img\SCI33.png" width=376px />
 
-or 7 topics
+<img src="img\SCI34.png" width=500px />
 
-21
+<img src="img\SCI35.png" width=500px />
 
+# Topic Dashboard
 
+<span style="color:#90CCFA"> __Topic__ </span>  <span style="color:#252525"> __Understanding__ </span>
 
+# 
 
+<span style="color:#FFFFFF">TOPIC 2</span>  <span style="color:#FFFFFF"> __User Authentication__ </span>
 
-Topics structure
+<span style="color:#FFFFFF">system\, user\, sensors\, engine\, processor\,</span>
 
-22
+<span style="color:#FFFFFF">controller\, \.\.\.</span>
 
+<span style="color:#FFFFFF">TOPIC 1</span>  <span style="color:#FFFFFF"> __Image \- Video__ </span>
 
+<span style="color:#FFFFFF">image\, recognition\, camera\, face\, picture\,\.\.\.</span>
 
+<span style="color:#FFFFFF">TOPIC 0</span>
 
+<span style="color:#FFFFFF"> __Cyber Security__ </span>
 
-**Topic Analysis**
+<span style="color:#FFFFFF">security\, server risk\, blockchain cloud\, transaction\,\.\.\.</span>
 
-[Topic](https://topicmodeling.000webhostapp.com/topics.html)[ ](https://topicmodeling.000webhostapp.com/topics.html)[Dashboard](https://topicmodeling.000webhostapp.com/topics.html)
+<span style="color:#FFFFFF">TOPIC 6</span>  <span style="color:#FFFFFF"> __Not Relevant__ </span>
 
+<span style="color:#FFFFFF">first\, second\, message\, document\, dns\, der\, und\, die</span>
 
+<span style="color:#FFFFFF">TOPIC 3</span>  <span style="color:#FFFFFF"> __Computer science__ </span>
 
+<span style="color:#FFFFFF">file\, computing\, computer\, application\, executable\, systems</span>
 
+<span style="color:#FFFFFF">TOPIC 4</span>
 
-**Topic Understanding**
+<span style="color:#FFFFFF"> __Machine learning__ </span>
 
-TOPIC 2
+<span style="color:#FFFFFF">model\, learning\, training\, vector\, neural\, classifier\, clustering\, sequences</span>
 
-**User**
+<span style="color:#FFFFFF">TOPIC 5</span>  <span style="color:#FFFFFF"> __Social \- Web__ </span>
 
-**Authentication**
+<span style="color:#FFFFFF">social\,website\,webpage\, audio\, advertisement\, online\, search\, page</span>
 
-system, user,
-
-sensors, engine,
-
-processor,
-
-TOPIC 0
-
-**Cyber Security**
-
-security, server
-
-risk, blockchain
-
-cloud,
-
-TOPIC 1
-
-**Image - Video**
-
-image,
-
-recognition,
-
-camera, face,
-
-picture,...
-
-transaction,...
-
-controller, ...
-
-TOPIC 6
-
-**Not Relevant**
-
-first, second,
-
-message,
-
-document, dns,
-
-der, und, die
-
-TOPIC 3
-
-**Computer**
-
-**science**
-
-TOPIC 4
-
-**Machine**
-
-**learning**
-
-TOPIC 5
-
-**Social - Web**
-
-social,website,web
-
-page, audio,
-
-advertisement,
-
-online, search,
-
-page
-
-file, computing,
-
-computer,
-
-application,
-
-executable,
-
-systems
-
-model, learning,
-
-training, vector,
-
-neural, classifier,
-
-clustering,
-
-sequences
-
-
-
-
-
-\3. Network analysis &
-
-Trend analysis
+# 3. Network analysis & 
+    Trend analysis
 
 Components
 
@@ -592,371 +306,241 @@ Trends
 
 Topics
 
-STEP 4
+<span style="color:#252525">STEP 4</span>
 
-STEP 2 (a)
+<span style="color:#252525">STEP</span>  <span style="color:#252525">2</span>  <span style="color:#252525">\(a\)</span>
 
-Community
+<span style="color:#252525">Cores Documents Detection</span>
 
-Detection
+<span style="color:#252525">Community</span>
 
-Cores Documents
+<span style="color:#252525">Detection</span>
 
-Detection
+<span style="color:#252525">STEP</span>  <span style="color:#252525">2 \(b\)</span>
 
-STEP 2 (b)
+<span style="color:#252525">STEP 3</span>
 
-Topic
+<span style="color:#252525">STEP</span>  <span style="color:#252525">1</span>
 
-Behavioural
+<span style="color:#252525">Topic Behavioural Analysis</span>
 
-Analysis
-
-STEP 3
-
-Trend Analysis
-
-STEP 1
-
-Component
-
-Analysis
+<span style="color:#252525">Trend Analysis</span>
 
 Communities
 
+<span style="color:#252525">Component Analysis</span>
+
 Cores
 
+<img src="img\SCI36.png" width=500px />
 
+<img src="img\SCI37.png" width=419px />
 
+<img src="img\SCI38.png" width=453px />
 
+<img src="img\SCI39.png" width=500px />
 
+<img src="img\SCI40.png" width=500px />
 
+# Components :
+network is unconnected…
 
+# 01
 
+<span style="color:#252525">Giant Component</span>
 
-Components :
+<span style="color:#252525">Only one big component of 1084 node</span>  <span style="color:#252525">s</span>
 
-network is
+<img src="img\SCI41.png" width=500px />
 
-unconnected…
+# 02
 
-Giant Component
+<span style="color:#252525">Medium size agglomerates</span>
 
-Only one big
+<span style="color:#252525">Interesting separated groups\, any high clustered</span>
 
-component of 1084
+# 385
 
-nodes
+<span style="color:#252525">Outliers</span>
 
-01
+<span style="color:#252525">Unconnected group of nodes that are not considered</span>
 
-02
+# What about the two components of medium size?
 
-385
+<img src="img\SCI42.png" width=500px />
 
-Medium size
+# 120 nodes
+High clustering coeff.
 
-agglomerates
+# 68 nodes
+Various topics
 
-Interesting separated
-
-groups, any high
-
-clustered
-
-Outliers
-
-Unconnected group of
-
-nodes that are not
-
-considered
-
-
-
-
-
-What about the two
-
-components of
-
-medium size?
-
-**120 nodes**
-
-**High clustering coeff.**
-
-**68 nodes**
-
-**Various topics**
-
-Mobile
-
-Content
-
-System
-
-Video
-
-Content
-
-Communication
-
+# Mobile           
+Content           
+Communication     
 Search
 
+# Content      
+System       
+Video        
 Media
 
-28
+<img src="img\SCI43.jpg" width=441px />
 
+# Analysing the  giant component!
 
-
-
-
-Analysing the giant
-
-component!
-
-
-
-
-
-Cores
-
+# Cores
 Structure
 
-More **central nodes have**
+<img src="img\SCI44.png" width=500px />
 
-**an high “core score”**
+# More central nodes have an high “core score” according to the core algorithm… 15 concentric cores sections are obtained
 
-according to the core
+<img src="img\SCI45.jpg" width=441px />
 
-algorithm… 15 concentric
-
-cores sections are obtained
-
-30
-
-
-
-
-
-Communities
-
+# Communities 
 Detection
 
-**Topics** do not create any
+<img src="img\SCI46.png" width=383px />
 
-clusters because they are
+# Topics do not create any clusters because they are not well separated.So, we can divide the network in clustered Louvain communities.
 
-not well separated.
+# Trend Analysis
 
-So, we can **divide** the
+<img src="img\SCI47.png" width=389px />
 
-network in clustered
+<img src="img\SCI48.png" width=391px />
 
-**Louvain communities.**
+<img src="img\SCI49.png" width=383px />
 
-31
+<img src="img\SCI50.png" width=383px />
 
+<img src="img\SCI51.png" width=309px />
 
+<img src="img\SCI52.png" width=320px />
 
+<img src="img\SCI53.jpg" width=344px />
 
+# Each topic has a core...
 
-**Trend Analysis**
+<img src="img\SCI54.png" width=410px />
 
+<img src="img\SCI55.png" width=382px />
 
+<img src="img\SCI56.png" width=270px />
 
+<img src="img\SCI57.png" width=248px />
 
-
-Each topic has a core...
-
-3
-
-
-
-
-
-Topics Cores
-
+# Topics Cores 
 Detection
 
-Taking in consideration
+<img src="img\SCI58.png" width=500px />
 
-only the **cores of each**
+# Taking in consideration only the cores of each topics, they appear well separated.  We will focus on these patents.
 
-**topics**, they appear well
+Surf the network !
 
-separated. We will focus
+# Cores Heatmap
 
-on these patents.
+Thanks to the heatmap we are able to select only the most relevant documents given the intersection between the topic cores and communities core\.
 
-[Surf](https://topicmodeling.000webhostapp.com/#/)[ ](https://topicmodeling.000webhostapp.com/#/)[the](https://topicmodeling.000webhostapp.com/#/)[ ](https://topicmodeling.000webhostapp.com/#/)[network](https://topicmodeling.000webhostapp.com/#/)[ ](https://topicmodeling.000webhostapp.com/#/)[!](https://topicmodeling.000webhostapp.com/#/)
+<img src="img\SCI59.png" width=360px />
 
-34
+<img src="img\SCI60.png" width=378px />
 
-
-
-
-
-Cores Heatmap
-
-Thanks to the heatmap we are able to select only
-
-the most relevant documents given the
-
-intersection between the topic cores and
-
-communities core.
-
-Heatmap communities and topics
+Heatmapcommunitiesand topics
 
 Intersection cores communities and topics
 
+<span style="color:#90CCFA">4</span>  <span style="color:#90CCFA">\.</span>  <span style="color:#202020">Final Evaluation</span>
 
+<img src="img\SCI61.png" width=500px />
 
+# Network Security
 
+<span style="color:#252525">User</span>  <span style="color:#90CCFA">Authentication</span>
 
-\4. Final Evaluation
+<span style="color:#666666"> __Technologies__ </span>
 
-Network Security
+<span style="color:#666666">Cloud based security monitoring using unsupervised pattern recognition and deep learning\, predicting behavioral analysis for malware detection\. \(US20190068627A1\)</span>
 
-User Authentication
+<span style="color:#666666">Method\, system and equipment for deducing malicious code rules based on deep learning method \(CN105975857A\)</span>
 
-Image - Video
+<span style="color:#666666">Profiling cyber threats detected in a target environment and automatically generating one or more rule bases for an expert system usable to profile cyber threats detected in a target environment</span>
 
+<span style="color:#666666">\(US20150163242A1\)</span>
 
+<span style="color:#666666">Identification of computerized bots and automated cyber\-attack modules</span>
 
+<span style="color:#666666">\(US20160306974A1\)</span>
 
+<img src="img\SCI62.png" width=500px />
 
-Network Security
+<span style="color:#666666"> __Maturity:__ </span>  __G__  __rowing__
 
-**Technologies**
+# User Authentication
 
-Cloud based security monitoring using unsupervised
+<img src="img\SCI63.png" width=500px />
 
-pattern recognition and deep learning, predicting
+<span style="color:#666666"> __Technologies__ </span>
 
-behavioral analysis for malware detection.
+<span style="color:#666666">System\, device\, and method of visual login and stochastic cryptography</span>  <span style="color:#666666">\(US10032010B2\)</span>
 
-(US20190068627A1)
+<span style="color:#666666">Systems and methods for enabling biometric authentication options \(US9569605B1\)</span>
 
-Method, system and equipment for deducing
+<span style="color:#666666">Device\, system\, and method of three\-dimensional spatial user authentication \(US20160300054A1\)</span>
 
-malicious code rules based on deep learning method
+<span style="color:#666666">Systems and methods for detecting security threats based on user profiles \(US9401925B1\)</span>
 
-(CN105975857A)
+<span style="color:#666666"> __Maturity:__ </span>  __Emerging/Growing__
 
-Profiling cyber threats detected in a target
+<img src="img\SCI64.png" width=500px />
 
-environment and automatically generating one or
+<img src="img\SCI65.png" width=500px />
 
-more rule bases for an expert system usable to profile
+<span style="color:#666666"> __Technologies__ </span>
 
-cyber threats detected in a target environment
+<span style="color:#666666">Image Recognition</span>
 
-(US20150163242A1)
+<span style="color:#666666">Hologram Reproducing and Recording</span>
 
-**Maturity: Growing**
+<span style="color:#666666">F</span>  <span style="color:#666666">ace Identification</span>
 
-Identification of computerized bots and automated
+<span style="color:#666666">Maturity:</span>  __Emerging__
 
-cyber-attack modules
+<img src="img\SCI66.png" width=500px />
 
-(US20160306974A1)
+<img src="img\SCI67.png" width=500px />
 
-
-
-
-
-User Authentication
-
-**Technologies**
-
-System, device, and method of visual login
-
-and stochastic cryptography
-
-(US10032010B2)
-
-Systems and methods for enabling biometric
-
-authentication options (US9569605B1)
-
-Device, system, and method of three-
-
-dimensional spatial user authentication
-
-(US20160300054A1)
-
-Systems and methods for detecting security
-
-threats based on user profiles (US9401925B1)
-
-**Maturity: Emerging/Growing**
-
-
-
-
-
-Image - Video
-
-**Technologies**
-
-Image Recognition
-
-Hologram Reproducing and Recording
-
-Face Identification
-
-Maturity: **Emerging**
-
-
-
-
-
-Deep Fake - Fake News
-
-**Strengths:**
-
-**Threat:**
-
-\-
-
-\-
+# Deep Fake - Fake News
 
 Unlimited
 
-\-
-
-\-
-
-Misinformation
-
-Political and Social
-
-Instability
-
 Inexpensive
-
-\-
 
 Easily accessible
 
-**Recognition Technologies:**
+Misinformation
 
-Deep Learning,
+Political and Social Instability
 
-Convolutional Neural Networks,
+<img src="img\SCI68.png" width=500px />
+
+<span style="color:#666666"> __Recognition__ </span>  <span style="color:#666666"> __Technologies:__ </span>
+
+Deep Learning\,
+
+Convolutional Neural Networks\,
 
 Image Recognition and
 
 Face Identification
 
+<img src="img\SCI69.png" width=500px />
 
+<img src="img\SCI70.jpg" width=500px />
 
+# Thank you for your attention!
 
-
-Thank you for
-
-your attention!
+# 
 
