@@ -38,4 +38,8 @@
 <img src='slides\SCI-38.png' width=500px />
 <img src='slides\SCI-39.png' width=500px />
 <img src='slides\SCI-40.png' width=500px />
+<<<<<<< HEAD
 <img src='slides\SCI-41.png' width=500px />
+=======
+<img src='slides\SCI-41.png' width=500px />
+>>>>>>> a4bc880a4a62b2a998629ef88f052ef1ac6d8238
