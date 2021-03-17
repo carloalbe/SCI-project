@@ -1,0 +1,456 @@
+Topic  0 
+
+Method and system for behavior analysis of mobile device behavior based on user persona information 
+Methods and systems for behavior-specific actuation for real-time whitelisting 
+Methods and systems for on-device high-granularity classification of device behaviors using multi-label models 
+Adaptive observation of behavioral features on a mobile device 
+Lightweight data-flow tracker for realtime behavioral analysis using control flow 
+Methods and systems for side channel analysis detection and protection 
+Automated behavioral and static analysis using an instrumented sandbox and machine learning classification for mobile security 
+Secure behavior analysis over trusted execution environment 
+Cloud based security monitoring using unsupervised pattern recognition and deep learning 
+On-line behavioral analysis engine in mobile device with multiple analyzer model providers 
+Framework for client cloud behavior analyzer 
+Efficient on-device binary analysis for auto-generated behavioral models 
+Attack defense method, system and defense device for abnormal system call 
+On-device real-time behavior analyzer 
+Methods and Systems of Building Classifier Models in Computing Devices 
+Control flow graph representation and classification 
+Systems and methods for risk rating framework for mobile applications 
+Anomaly detection in streaming telephone network data 
+Distributed monitoring, evaluation, and response for multiple devices 
+Distributed monitoring and evaluation of multiple devices 
+The behavioural analysis based on data flow in mobile device 
+Methods and systems for detecting malware and attacks that target behavioral security mechanisms of a mobile device 
+Cross-module behavioral validation 
+Exploiting hot application programming interfaces (APIs) and action patterns for efficient storage of API logs on mobile devices for behavioral analysis 
+Machine-learning behavioral analysis to detect device theft and unauthorized device usage 
+With the irrelevant malware detection based on system action of signing 
+Adaptive observation of behavioral features on a mobile device 
+Method and system for performing behavioral analysis operations in a mobile device based on application state 
+Methods and systems of generating application-specific models for the targeted protection of vital applications 
+Computing device to detect malware 
+Unsupervised spoofing detection from traffic data in mobile networks 
+Predictive Behavioral Analysis for Malware Detection 
+System and method for assessing android applications malware risk 
+A kind of mobile application malware detection method and system towards electric power enterprise 
+A system to mitigate against adversarial samples for machine learning and artificial intelligence models 
+
+
+ Topic  1 
+
+System, device, and method of visual login and stochastic cryptography 
+Device, system, and method of detecting malicious automatic script and code injection 
+Device, method, and system of detecting multiple users accessing the same account 
+Device, system, and method of differentiating among users based on detection of hardware components 
+Identification of computerized bots and automated cyber-attack modules 
+System, method, and device of detecting identity of a user of an electronic device 
+System, device, and method of detecting a remote access user 
+System, device, and method of detecting identity of a user of an electronic device 
+System, device, and method of recovery and resetting of user authentication factor 
+Personalized inferred authentication for virtual assistance 
+Device, system, and method of recovery and resetting of user authentication factor 
+Device, system, and method of detecting multiple users accessing the same account 
+Method and apparatus to detect non-human users on computer systems 
+Device, method, and system of detecting remote access users and differentiating among users 
+Method, device, and system of detecting mule accounts and accounts used for money laundering 
+Device, system, and method of password-less user authentication and password-less detection of user identity 
+Device, system, and method of three-dimensional spatial user authentication 
+Method, device, and system of generating fraud-alerts for cyber-attacks 
+Device, system, and method of detecting a remote access user 
+System, device, and method of detecting malicious automatic script and code injection 
+Device, system, and method of detecting hardware components 
+Device, system, and method of visual login and stochastic cryptography 
+System, device, and method of detecting vishing attacks 
+Method, system, and device of authenticating identity of a user of an electronic device 
+System, device, and method of detecting identity of a user of a mobile electronic device 
+Passive automated content entry detection system 
+
+
+ Topic  2 
+
+Boolean logic in a state machine lattice 
+Methods and systems for detection in a state machine 
+Methods and devices for saving and/or restoring a state of a pattern-recognition processor 
+Methods and systems for handling data received by a state machine engine 
+General purpose set theoretic processor 
+Dynamic power-down of a block of a pattern-recognition processor 
+Methods and systems to accomplish variable width data input 
+Pattern-recognition processor with matching-data reporting module 
+Devices, systems, and methods to synchronize parallel processing of a single data stream 
+Methods and systems for using state vector data in a state machine engine 
+Graph traversal using automata processor 
+Methods and systems for padding data received by a state machine engine 
+
+
+ Topic  3 
+
+Method, system and equipment for deducing malicious code rules based on deep learning method 
+Sensor-based mobile search, correlation technique and system 
+Image recognition system, image recognition method, hologram recording medium, hologram reproducing apparatus, hologram reproducing and image photographic device 
+Intuition computational methods and system 
+A kind of Android malicious code detecting method abstract based on Dalvik instruction 
+Artificial intelligence early warning system 
+Detection method, system, device and the computer readable storage medium of malicious traffic stream 
+Doorbell communication systems and methods 
+Influence calculation method based on microblog specific events 
+Method and system for analysing individual emotion tendency of microblog user 
+Large-scale rapid mobile application APP detection and analysis method 
+Method and device for detecting malicious code in intelligent terminal 
+A kind of JavaScript Malicious Code Detection model based on bytecode 
+A kind of edge calculations and the real-time video monitoring method and system of cloud computing fusion 
+High voltage electric transmission line external damage-proof intelligent image pre-warning system and method 
+Alert big data management system 
+Building health monitoring system based on building information model technology 
+Fine-grained semantic detection method of harmful text contents in network 
+Transformer substation field worker monitoring and management system and method based on video analysis and RFID 
+Privacy mode for wireless audio devices 
+Power outlet cameras 
+Surveillance system and method including active alert function 
+Real-time streaming textual hierarchy monitoring method and device 
+A kind of laboratory environment monitoring wireless sensing device and safety pre-warning system 
+Prison anti-terrorism early warning system based on visual identification and big data technology 
+Garbage classification supervision system 
+Method, equipment and the storage medium of material in figure are closed in tracking 
+Privacy protection system for electronic devices 
+A kind of application method identifying binary function in embedded device 
+
+
+ Topic  4 
+
+Systems and methods for determining types of malware infections on computing devices 
+Systems and methods for preventing data loss over virtualized networks 
+Systems and methods for deploying applications included in application containers 
+Systems and methods for replicating computing system environments 
+Systems and methods for validating application signatures 
+Systems and methods for detecting malware using file clustering 
+Systems and methods for protecting files from malicious encryption attempts 
+Systems and methods for detecting malware using machine learning 
+Systems and methods for performing security scans 
+Systems and methods for increasing compliance with data loss prevention policies 
+Systems and methods for replacing application methods at runtime 
+Systems and methods for automated aggregation of information-source metadata 
+Systems and methods for creating optimized synthetic backup images 
+Systems and methods for managing malware signatures 
+Systems and methods for detecting malicious digitally-signed applications 
+Systems and methods for detecting misplaced applications using functional categories 
+Systems and methods for evaluating network security 
+Systems and methods for repairing system files 
+Systems and methods for blocking and removing internet-traversing malware 
+Systems and methods for increasing security on computing systems that launch application containers 
+Systems and methods for using reputation data to detect shared-object-based security threats 
+Systems and methods for detecting malware variants 
+Systems and methods for enforcing data loss prevention policies on mobile devices 
+Systems and methods for enforcing enterprise data access control policies in cloud computing environments 
+Systems and methods for detecting malware on mobile platforms 
+Systems and methods for enabling biometric authentication options 
+In response to detecting the potential system and method for extorting software for modification file backup 
+Systems and methods for detecting security threats based on user profiles 
+Systems and methods for monitoring encrypted data transmission 
+Systems and methods for applying data loss prevention policies to closed-storage portable devices 
+Systems and methods for maintaining encrypted search indexes on third-party storage systems 
+Systems and methods for preserving deduplication efforts after backup-job failures 
+Systems and methods for using acquisitional contexts to prevent false-positive malware classifications 
+Systems and methods for determining trustworthiness of software programs 
+Systems and methods for estimating confidence scores of unverified signatures 
+Systems and methods for detecting discrepancies in automobile-network data 
+Systems and methods for creating behavioral signatures used to detect malware 
+Systems and methods for identifying malicious computer files 
+Systems and methods for detecting malicious browser-based scripts 
+Systems and methods for optimizing security controls for virtual data centers 
+Systems and methods for anonymizing log entries 
+Systems and methods for managing encrypted files within application packages 
+Systems and methods for detecting suspicious files 
+Systems and methods for sharing the results of malware scans within networks 
+Systems and methods for generating repair scripts that facilitate remediation of malware side-effects 
+Systems and methods for real-time scam protection on phones 
+Systems and methods for detecting compromised messaging accounts 
+Systems and methods for using user-input information to identify computer security threats 
+Systems and methods for scanning data stored on cloud computing platforms 
+Systems and methods for detecting anomalous behavior in shared data repositories 
+Systems and methods for collecting error data to troubleshoot product errors 
+Systems and methods for determining potential impacts of applications on the security of computing systems 
+Systems and methods for threat detection using a software program update profile 
+Systems and methods for establishing a reputation for related program files 
+Systems and methods for filtering log files 
+Systems and methods for categorizing virtual-machine-aware applications for further analysis 
+Systems and methods for whitelisting file clusters in connection with trusted software packages 
+Systems and methods for distinguishing code of a program obfuscated within a packed program 
+Systems and methods for identifying potentially risky data users within organizations 
+Systems and methods for data loss prevention of unidentifiable and unsupported object types 
+Systems and methods for preventing chronic false positives 
+Systems and methods for logging out of cloud-based applications managed by single sign-on services 
+Systems and methods for classifying permissions on mobile devices 
+Systems and methods for automatically populating one-time-password input fields 
+Systems and methods for capturing input from users to prevent data loss 
+Systems and methods for selecting identifiers for wireless access points 
+Systems and methods for detecting suspicious microcontroller messages 
+Systems and methods for detecting private browsing mode 
+Systems and methods for remotely configuring applications 
+Systems and methods for locating functions for later interception 
+Systems and methods for detecting malware infections associated with domain generation algorithms 
+Systems and methods for detecting anomalous behavior within computing sessions 
+Systems and methods for detecting geolocation-aware malware 
+Systems and methods for detecting webpages belonging to spam campaigns 
+Systems and methods for controlling content for child browser users 
+Systems and methods for protecting a cloud storage against suspected malware 
+Systems and methods for detecting malware-induced crashes 
+Systems and methods for making security-related predictions 
+Systems and methods for efficiently matching files 
+Systems and methods for preventing sensitive data sharing 
+Systems and methods for detecting malicious processes that encrypt files 
+Systems and methods for detecting and addressing suspicious file restore activities 
+Systems and methods for identifying suspicious text-messaging applications on mobile devices 
+Systems and methods for selectively masking data on virtual storage devices 
+Systems and methods for determining security reputations of wireless network access points 
+Systems and methods for determining the reputations of unknown files 
+Systems and methods for identifying suspicious singleton files using correlational predictors 
+Systems and methods for reducing network traffic by using delta transfers 
+Systems and methods for detecting credential theft 
+Systems and methods for detecting client types 
+Systems and methods for performing operations on restricted mobile computing platforms 
+Systems and methods for preventing sensitive information exposure based on a surrounding audience 
+Systems and methods for customizing privacy control systems 
+Systems and methods for generating memory images of computing devices 
+Systems and methods for preventing addictive application usage 
+Systems and methods for generating passwords 
+Systems and methods for automatically blocking web proxy auto-discovery protocol (WPAD) attacks 
+Systems and methods for detecting when users are uninstalling applications 
+Systems and methods for preventing tracking of mobile devices 
+Systems and methods for protecting sensitive data against data loss 
+
+
+ Topic  5 
+
+Behavior analysis based DNS tunneling detection and classification framework for network security 
+Risk assessment modeling 
+Intrusion detection platform 
+Method of reducing financial fraud by user devices patronizing commercial websites 
+Evaluating and modifying countermeasures based on aggregate transaction status 
+Computer security based on artificial intelligence 
+Multi-dimensional behavior device ID 
+System and method for insider threat detection 
+Identifying and remediating phishing security weaknesses 
+System and method for insider threat detection 
+Profiling cyber threats detected in a target environment and automatically generating one or more rule bases for an expert system usable to profile cyber threats detected in a target environment 
+Detection of security incidents with low confidence security events 
+Assessing effectiveness of cybersecurity technologies 
+Using decoys by a data loss prevention system to protect against unscripted activity 
+Processing network traffic based on assessed security weaknesses 
+Systems and methods for malware detection and mitigation 
+Distributed agent based model for security monitoring and response 
+Detection of malware beaconing activities 
+Distributed techniques for detecting atypical or malicious wireless communications activity 
+Dynamic security mechanisms 
+Infiltration Detection and Network Rerouting 
+System and method for threat risk scoring of security threats 
+System and method for detecting lateral movement and data exfiltration 
+Systems and Methods for Processing Data Flows 
+Multimodal help agent for network administrator 
+Graph-based network anomaly detection across time and entities 
+Network appliance for dynamic protection from risky network activities 
+Systems and methods for dynamic protection from electronic attacks 
+Systems and methods for processing data flows 
+Systems and methods for processing data flows 
+Secure computing environment 
+System and method to detect threats to computer based devices and systems 
+Method and system for automated incident response 
+Threat indicator analytics system 
+Cybersecurity risk assessment on an industry basis 
+Network security using artificial intelligence and high speed computing 
+Systems and methods for processing data flows 
+Automated insider threat prevention 
+Assessing security risks of users in a computing network 
+Automated internet threat detection and mitigation system and associated methods 
+Systems and methods for tracking, analyzing and mitigating security threats in networks via a network traffic analysis platform 
+Apparatus, system and method for identifying and mitigating malicious network threats 
+Dynamically remote tuning of a malware content detection system 
+System, method, and apparatus for providing network security 
+Cognitive scoring of asset risk based on predictive propagation of security-related events 
+Detecting triggering events for distributed denial of service attacks 
+Systems, methods, and devices for improved cybersecurity 
+System and methods for malware detection using log based crowdsourcing analysis 
+Data leak protection in upper layer protocols 
+System and method for cyber security analysis and human behavior prediction 
+System and method for securing an enterprise computing environment 
+Detecting security threats by combining deception mechanisms and data science 
+Model protection level on-device determination based on malware detection in similar devices 
+Systems and methods for enforcing policies for proxy website detection using advertising account ID 
+System for detection of mobile applications network behavior-netwise 
+Protecting sensitive information from a secure data store 
+Dynamic defense and network randomization for computer systems 
+Impact analyzer for a computer network 
+Impact analyzer for a computer network 
+Using recurrent neural networks to defeat DNS denial of service attacks 
+Systems and methods for enforcing policies in the discovery of anonymizing proxy communications 
+Collaborative and adaptive threat intelligence for computer security 
+Entity Group Behavior Profiling 
+Threat evaluation system and method 
+Real-time contextual monitoring intrusion detection and prevention 
+Characterizing user behavior via intelligent identity analytics 
+Techniques for discovering and managing security of applications 
+Cybersecurity training system with automated application of branded content 
+Method and system for generating an interactive kill chain view for training a machine learning model for identifying threats 
+Supplementary activity monitoring of a selected subset of network entities 
+Displaying interactive topology maps of cloud computing resources 
+Detecting security threats in a local network 
+Adaptive internet of things edge device security 
+Identifying notable events based on execution of correlation searches 
+Method and device for managing security in a computer network 
+Platforms for implementing an analytics framework for DNS security 
+Systems and methods for contextual and cross application threat detection and prediction in cloud applications 
+Method and system to detect discrepancy in infrastructure security configurations from translated security best practice configurations in heterogeneous environments 
+Using high-interaction networks for targeted threat intelligence 
+Security monitoring of network connections using metrics data 
+Systems and methods for identifying malicious hosts 
+Expert system for detecting software security threats 
+System and method for assessing cybersecurity awareness 
+Method and system for managing computer system vulnerabilities 
+Proxying hypertext transfer protocol (HTTP) requests for microservices 
+Lateral movement detection through graph-based candidate selection 
+System and method for malware detection 
+Systems and methods for tracking, predicting, and mitigating advanced persistent threats in networks 
+System and method for identifying infected networks and systems from unknown attacks 
+Techniques for cloud security monitoring and threat intelligence 
+Cyber threat monitor and control apparatuses, methods and systems 
+System and method for a cyber intelligence hub 
+System and method for automatic service discovery and protection 
+Risk assessment using social networking data 
+Cyber vulnerability scan analyses with actionable feedback 
+Detecting anomaly action within a computer network 
+Systems for network risk assessment including processing of user access rights associated with a network of devices 
+Network intrusion detection with distributed correlation 
+Security threat information gathering and incident reporting systems and methods 
+Systems and methods for enforcing policies to block search engine queries for web-based proxy sites 
+Protected access control method for shared computer resources 
+Reactive and pre-emptive security system for the protection of computer networks and systems 
+Method and system for tracking machines on a network using fuzzy GUID technology 
+Deception network system 
+Monitoring Entity Behavior using Organization Specific Security Policies 
+Network security system and method for preemptively identifying or remediating security vulnerabilities 
+Malicious encrypted network traffic identification using fourier transform 
+System and method for comprehensive data loss prevention and compliance management 
+Threat index based WLAN security and quality of service 
+Method and device for robust detection, analytics, and filtering of data/information exchange with connected user devices in a gateway-connected user-space 
+User and entity behavioral analysis using an advanced cyber decision platform 
+Associating a user identifier detected from web traffic with a client address 
+Peer Device Protection 
+A system for implementing threat detection using threat and risk assessment of asset-actor interactions 
+Automated adjusting of devices 
+Techniques for determining threat intelligence for network infrastructure analysis 
+Intelligent remediation of security-related events 
+Deploying a security policy based on domain names 
+Corporate cyber security risk management and resource planning 
+Server-client authentication with integrated status update 
+Local proxy detection 
+Systems and platforms for intelligently monitoring risky network activities 
+Autonomous edge device for monitoring and threat detection 
+Detecting endpoint compromise based on network usage history 
+Rating organization cybersecurity using active and passive external reconnaissance 
+Automated detection of session-based access anomalies in a computer network through processing of session data 
+Method and systems for real-time internal network threat detection and enforcement 
+Cybersecurity artificial intelligence system 
+Intelligent-interaction honeypot for iot devices 
+Next-generation enhanced comprehensive cybersecurity platform with endpoint protection and centralized management 
+Computer security and usage-analysis system 
+Threat mitigation system and method 
+Systems for network risk assessment 
+System and method for cybersecurity analysis and score generation for insurance purposes 
+Increasing security of network resources utilizing virtual honeypots 
+Industrial asset cyber-attack detection algorithm verification using secure, distributed ledger 
+Network protection 
+System and method of determination of ddos-attacks under failure of service servers 
+Dynamic Risk Detection And Mitigation Of Compromised Customer Log-In Credentials 
+Graphical representation of security threats in a network 
+A firewall system for monitoring network traffic by using firewall agent 
+System and method of setting security systems under ddos attacks 
+Network protection 
+Selecting security incidents for advanced automatic analysis 
+Cryptocurrency Based Malware and Ransomware Detection Systems and Methods 
+Detecting obfuscated malware variants 
+System and method for classifying cyber security threats using natural language processing 
+Malware detection and alerting for network connected devices based on traffic flow analysis on local network 
+Systems and methods of interactive and intelligent cyber-security 
+System and method for securing a computer system from threats introduced by usb devices 
+Network security system with enhanced traffic analysis based on feedback loop 
+Characterizing client-server connection configurations according to communication layer attributes 
+Methods and systems for scalable privacy-preserving compromise detection in the cloud 
+Cross machine detection techniques 
+Assessing Security Risks of Users in a Computing Network 
+User and entity behavioral analysis with network topology enhancements 
+Rogue foothold network defense 
+Cybersecurity and threat assessment platform for computing environments 
+Leveraging attack graphs of agile security platform 
+Generating attack graphs in agile security platforms 
+Bio-inspired agile cyber-security assurance framework 
+Similarity based approach for clustering and accelerating multiple incidents investigation 
+Risk-informed autonomous adaptive cyber controllers 
+Automatic characterization of malicious data flows 
+Generating attack graphs in agile security platforms 
+Generating attack graphs in agile security platforms 
+Supervised learning system for identity compromise risk computation 
+System and method for cybersecurity reconnaissance, analysis, and score generation using distributed systems 
+Systems and methods for secure communication in cloud computing environments 
+System and method for self-adjusting cybersecurity analysis and score generation 
+Methods for detecting and mitigating malicious network activity based on dynamic application context and devices thereof 
+Risk score generation utilizing monitored behavior and predicted impact of compromise 
+Affectedness scoring engine for cyber threat intelligence services 
+Method and system for detecting and mitigating network breaches 
+Artificial intelligence method and system for detecting anomalies in a computer network 
+Systems and methods of network-based intelligent cyber-security 
+Rule-based assignment of criticality scores to assets and generation of a criticality rules table 
+Cybersecurity intelligence platform that predicts impending cyber threats and proactively protects heterogeneous devices using highly-scalable bidirectional secure connections in a federated threat intelligence environment 
+Blockchain Transaction Analysis and Anti-Money Laundering Compliance Systems and Methods 
+Risk profiling and rating of extended relationships using ontological databases 
+Method and system to stitch cybersecurity, measure network cyber health, generate business and network risks, enable realtime zero trust verifications, and recommend ordered, predictive risk mitigations 
+Systems and methods for determining individual and group risk scores 
+Cybersecurity profiling and rating using active and passive external reconnaissance 
+System, method, and computer program for real-time cyber intrusion detection and intruder identity analysis 
+Unified interface for analysis of and response to suspicious activity on a telecommunications network 
+Computer threat analysis service 
+Home-Based Physical and Cyber Integrated Security-Intrusion Detection System (PCIS-IDS) 
+
+
+ Topic  6 
+
+System and methods for advanced malware detection through placement of transition events 
+Detection center to detect targeted malware 
+Advanced processing of electronic messages with attachments in a cybersecurity system 
+Methods and systems for identifying potential enterprise software threats based on visual and non-visual data 
+Malicious message analysis system 
+Detection and classification of exploit kits 
+System and method to detect premium attacks on electronic networks and electronic devices 
+System and method for generating a malware identifier 
+Susceptible environment detection system 
+System and method for network data characterization 
+Systems and methods for electronic message analysis 
+Detection of malicious web activity in enterprise computer networks 
+Classifying sets of malicious indicators for detecting command and control communications associated with malware 
+Mitigating communication risk by detecting similarity to a trusted message contact 
+Detecting computer security risk based on previously observed communications 
+Comparing applications and assessing differences 
+Interactive infection visualization for improved exploit detection and signature generation for malware and malware families 
+Exploit detection of malware and malware families 
+Using message context to evaluate security of requested data 
+Systems and methods for detecting and/or handling targeted attacks in the email channel 
+System for domain reputation scoring 
+Analyzing DNS requests for anomaly detection 
+Multi-level security analysis and intermediate delivery of an electronic message 
+System and method for detectng malicious mail from spam zombies 
+Machine learning data filtering in a cross-domain environment 
+Method, system, and device for mail monitoring 
+Using a measure of influence of sender in determining a security risk associated with an electronic message 
+Analysis and reporting of suspicious emails 
+System and methods for spam detection using frequency spectra of character strings 
+DNS tunneling prevention 
+Cascade classifier ordering 
+Methods of identifying heap spray attacks using memory anomaly detection 
+Social engineering protection appliance 
+Dynamically detecting abnormalities in otherwise legitimate emails containing uniform resource locators (URLs) 
+Facet Whitelisting in Anomaly Detection 
+Computer-security event clustering and violation detection 
+Computer-security violation detection using coordinate vectors 
+Email security analysis 
+Multi-level security analysis and intermediate delivery of an electronic message 
+Smart whitelisting for dns security 
+Systems and methods for detecting data exfiltration 
